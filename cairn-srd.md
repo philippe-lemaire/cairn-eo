@@ -165,204 +165,204 @@ Ludantoj fidas unu la alian por okupiĝi pri la komuna agordo, karakterceloj kaj
 [back to index](#index)
 <p></p>
 
-## Character Creation
+## Kreado de Karaktero
 
-#### Name, Background & Traits
+#### Nomo, Fono & Trajtoj
 
-First, choose or roll your PC’s **name** and **background** from their respective [tables](#name--background-d20). A PC’s background informs their potential knowledge and skills.
+Unue, elektu aŭ ruligu la **nomon** kaj **fonon** de via komputilo el iliaj respektivaj [tabeloj] (#nomo--fono-d20). La fono de komputilo informas iliajn eblajn sciojn kaj kapablojn.
 
-Next, roll for the rest of your character's **traits** (appearance, speech, mannerisms, beliefs, reputation, etc.) on the [**Character Traits**](#character-traits-d10) tables.
+Poste, rulu por la ceteraj **trajtoj** de via rolulo (aspekto, parolo, manieroj, kredoj, reputacio, ktp.) sur la [**Caracteraj Trajtoj**](#character-traits-d10) tabloj.
 
-Finally, roll for their **age** (2d20+10).
+Fine, rulu por ilia **aĝo** (2d20+10).
 
-#### Ability Scores
+#### Kapablaj Poentoj
 
-Player Characters (PCs) have just three attributes:
-**Strength (STR)**, **Dexterity (DEX)**, and **Willpower (WIL)**. When creating a PC, the player should roll 3d6 for each of their character's ability scores, in order. They may then swap any two of the results.
+Ludantaj karakteroj (komputiloj) havas nur tri atributojn:
+**Forto (STR)**, **Lerteco (DEX)**, kaj **Volforto (WIL)**. Kreante komputilon, la ludanto devas ruliĝi 3d6 por ĉiu el la kapablopoentaro de sia karaktero, en ordo. Ili tiam povas interŝanĝi iujn ajn du el la rezultoj.
 
 <details markdown="block">
   <summary>
-Expand For Example
+Vastigi por vidi ekzemplon
  </summary>
- Ines rolls for her character's **STR**, resulting in a **2**, a **4**, and a **6**, totaling **12**. The next two ability rolls result in a **9** for **DEX** and a **13** for **WIL**. She decides to swap the **12** and the **9**, for a character with **9 STR**, **12 DEX** and **13** **WIL**.
+Ines ruliĝas por la **STR** de sia karaktero, rezultigante **2**, **4** kaj **6**, entute **12**. La sekvaj du kapablo-ruloj rezultigas **9** por **DEX** kaj **13** por **WIL**. Ŝi decidas interŝanĝi la **12** kaj la **9**, por karaktero kun **9 STR**, **12 DEX** kaj **13** **WIL**.
 
 </details>
 
-### Hit Protection
+### Bata Protekto
 
-Roll 1d6 to determine your PC's starting **Hit Protection** (HP), which reflects their ability to avoid damage in combat. HP does not indicate a character's health or fortitude; nor do they lose it for very long (see **Healing**). If an attack takes a PC's HP exactly to 0, the player must roll on the [**Scars**](/cairn-srd#scars-1) table.
+Rulu 1d6 por determini la komencan **Hit Protection** (HP) de via komputilo, kiu reflektas ilian kapablon eviti damaĝon en batalo. HP ne indikas la sanon aŭ forton de karaktero; nek ili tre longe perdas ĝin (vidu **Resanigo**). Se atako prenas HP de komputilo precize al 0, la ludanto devas ruliĝi sur la [**Scars**](/cairn-srd#scars-1) tablo.
 
-#### Inventory
+#### Inventaro
 
-Characters have a total of 10 inventory slots: a backpack with six slots, one slot for each hand, and two slots for their upper body (such as the belt, chest, or head). The backpack can also double as an emergency sleeping bag but only if emptied of its contents.
+Karakteroj havas entute 10 stokregistrofendetojn: tornistro kun ses fendetoj, unu fendeto por ĉiu mano, kaj du fendetoj por sia supra korpoparto (kiel ekzemple la zono, brusto aŭ kapo). La tornistro ankaŭ povas duobliĝi kiel urĝa dormsako sed nur se malplenigita de sia enhavo.
 
-Most items take up one slot, and small items can be bundled together. Slots are abstract and can be rearranged per the Warden's discretion.
+Plej multaj eroj okupas unu fendon, kaj malgrandaj aĵoj povas esti kunmetitaj. Fendoj estas abstraktaj kaj povas esti rearanĝitaj laŭ la bontrovo de la Prizorganto.
 
-**Bulky** items take up two slots and are typically two-handed or awkward to carry. Anyone carrying a full inventory (i.e. filling all 10 slots) is reduced to 0 HP.
+**Dimensaj** aĵoj okupas du fendojn kaj estas kutime dumane aŭ mallerte por porti. Iu ajn portanta plenan inventaron (t.e. plenigante ĉiujn 10 fendojn) estas reduktita al 0 HP.
 
-A PC cannot carry more items than their inventory allows. Carts (which must be pulled with both hands), horses, or mules can increase inventory.  **Hirelings** can also be paid to carry equipment.
+Komputilo ne povas porti pli da eroj ol ilia inventaro permesas. Ĉaroj (kiuj devas esti tiritaj per ambaŭ manoj), ĉevaloj aŭ muloj povas pliigi stokregistron. **Dungantoj** ankaŭ povas esti pagitaj por porti ekipaĵon.
 
-#### Starting Gear
+#### Komencante Ilaron
 
-All PCs begin with:
+Ĉiuj komputiloj komenciĝas per:
 
-- Three days' rations (one slot)
-- A torch (one slot)
-- 3d6 gold pieces
+- Tritagaj porcioj (unu fendo)
+- Torĉo (unu fendo)
+- 3d6 oraj pecoj
 
-Roll once on each of the **Starting Gear** tables to determine your PC's armor, weapons, tools, and equipment. If indicated, roll on the [**Spellbooks**](#spellbooks-d100) table with a d100 (or roll 2d10, using one die as the ones place, and the other as the tens place). Pick only one item for each result.
+Rulu unufoje sur ĉiu el la **Starting Gear**-tabloj por determini la kirason, armilojn, ilojn kaj ekipaĵojn de via komputilo. Se indikite, rulu sur la [**Spellbooks**](#spellbooks-d100) tablon kun d100 (aŭ rulu 2d10, uzante unu ĵetkubon kiel la unuoj, kaj la alian kiel la dekoj). Elektu nur unu objekton por ĉiu rezulto.
 
-See the **Equipment List** for related armor, damage, and slot values. Smaller items can sometimes be bundled together into one slot.
+Vidu la **Ekipaĵan Liston** por rilataj kiraso, damaĝo kaj fendovaloroj. Pli malgrandaj aĵoj foje povas esti kunigitaj en unu fendeton.
 
-If you would like something closer to traditional classes, refer to the list of [**Optional Gear Packages**](#optional-gear-packages).
-
-<p></p>
-
-## Name & Background (d20)
-
-#### Female Names
-
-|||||||||
-|------|-----------|-----------|-----------|----------|---------|------|----------|
-|1     | Agune     |6          |Drelil     |11        |Lirann   |16    |Sybil     |
-|2     | Beatrice  |7          |Elgile     |12        |Lirathil |17    |Theune    |
-|3     | Breagan   |8          |Esme       |13        |Lisabeth |18    |Wenain    |
-|4     | Bronwyn   |9          |Griya      |14        |Moralil  |19    |Ygwal     |
-|5     | Cannora   |10         |Henaine    |15        |Morgwen  |20    |Yslen     |
-
-#### Male Names
-
-|||||||||
-|------|-----------|-----------|-----------|----------|---------|------|----------|
-|1           |Arwel     |6          |Breglor    |11        |Grinwit  |16    |Melnax    |
-|2           |Bevan     |7          |Canhoreal  |12        |Gruwid   |17    |Orthax    |
-|3           |Boroth    |8          |Emrys      |13        |Gruwth   |18    |Triunein  |
-|4           |Borrid    |9          |Ethex      |14        |Gwestin  |19    |Wenlan    |
-|5           |Breagle   |10         |Gringle    |15        |Mannog   |20    |Yirmeor   |
-
-#### Surnames
-
-|||||||||
-|------|-----------|-----------|-----------|----------|---------|------|----------|
-|1           |Abernathy |6          |Crumwaller |11        |Harper   |16    |Swinney   |
-|2           |Addercap  |7          |Dunswallow |12        |Loomer   |17    |Thatcher  |
-|3           |Burl      |8          |Getri      |13        |Malksmilk|18    |Tolmen    |
-|4           |Candlewick|9          |Glass      |14        |Smythe   |19    |Weaver    |
-|5           |Cormick   |10         |Harkness   |15        |Sunderman|20    |Wolder    |
-
-#### Background
-
-|||||||||
-|------|-----------|-----------|-----------|----------|---------|------|----------|
-|1           |Alchemist |6          |Cleric     |11        |Magician |16    |Performer |
-|2           |Blacksmith|7          |Gambler    |12        |Mercenary|17    |Pickpocket|
-|3           |Burglar   |8          |Gravedigger|13        |Merchant |18    |Smuggler  |
-|4           |Butcher   |9          |Herbalist  |14        |Miner    |19    |Servant   |
-|5           |Carpenter |10         |Hunter     |15        |Outlaw   |20    |Ranger    |
+Se vi ŝatus ion pli proksiman al tradiciaj klasoj, raportu al la listo de [**Optional Gear Packages**](#optional-gear-packages).
 
 <p></p>
 
-## Character Traits (d10)
+## Nomo kaj Fono (d20)
 
-#### Physique
+#### Inaj Nomoj
 
-|  |          |      |            |
+|||||||||
+|------|-----------|-----------|------------|------ ----|---------|------|-----------|
+|1 | Agune |6 |Drelil |11 |Lirann |16 |Sybil |
+|2 | Beatrice |7 |Elgile |12 |Lirathil |17 |Theune |
+|3 | Breagan |8 |Esme |13 |Lisabeth |18 |Wenain |
+|4 | Bronwyn |9 |Griya |14 |Moralil |19 |Ygwal |
+|5 | Cannora |10 |Henaine |15 |Morgwen |20 |Yslen |
+
+#### Viraj Nomoj
+
+|||||||||
+|------|-----------|-----------|------------|------ ----|---------|------|-----------|
+|1 |Arwel |6 |Breglor |11 |Grinwit |16 |Melnax |
+|2 |Bevan |7 |Canhoreal |12 |Gruwid |17 |Orthax |
+|3 |Boroth |8 |Emrys |13 |Gruwth |18 |Triunein |
+|4 |Borrid |9 |Ethex |14 |Gwestin |19 |Wenlan |
+|5 |Breagle |10 |Gringle |15 |Mannog |20 |Yirmeor |
+
+#### Familiaj nomoj
+
+|||||||||
+|------|-----------|-----------|------------|------ ----|---------|------|-----------|
+|1 |Abernathy |6 |Crumwaller |11 |Harper |16 |Swinney |
+|2 |Adderkap |7 |Dunglundo |12 |Loomer |17 |Palomango |
+|3 |Burl |8 |Getri |13 |Malksmilk|18 |Tolmen |
+|4 |Kandlempo|9 |Vitro |14 |Smythe |19 |Teksisto |
+|5 |Cormick |10 |Harkness |15 |Sunderman|20 |Wolder |
+
+#### Fono
+
+|||||||||
+|------|-----------|-----------|------------|------ ----|---------|------|-----------|
+|1 |Alkemiisto |6 |Kleriko |11 |Magiisto |16 |Interpretisto |
+|2 |Forĝisto|7 |Vetludanto |12 |Soldulo|17 |Ŝtelisto|
+|3 |Romŝtelisto |8 |Tombisto|13 |Komercisto |18 |Kontrabandisto |
+|4 |Buĉisto |9 |Herboristo |14 |Ministo |19 |Servisto |
+|5 |Ĉarpentisto |10 |Ĉasisto |15 |Eksterleĝulo |20 |Gardisto |
+
+<p></p>
+
+## Karakteraj Trajtoj (d10)
+
+#### Fiziko
+
+| | | | |
 | -------- | -------- | ---- | ---------- |
-| 1        | Athletic | 6    | Scrawny    |
-| 2        | Brawny   | 7    | Short      |
-| 3        | Flabby   | 8    | Statuesque |
-| 4        | Lanky    | 9    | Stout      |
-| 5        | Rugged   | 10   | Towering   |
+| 1 | Atleta | 6 | Magra |
+| 2 | Brawny | 7 | Mallonga |
+| 3 | Flaska | 8 | Statueca |
+| 4 | Maldika | 9 | Stout |
+| 5 | Fortika | 10 | Altega |
 
-#### Skin
+#### Haŭto
 
-|  |            |      |           |
+| | | | |
 | ---- | ---------- | ---- | --------- |
-| 1    | Birthmark  | 6    | Round     |
-| 2    | Dark       | 7    | Soft      |
-| 3    | Elongated  | 8    | Tanned    |
-| 4    | Pockmarked | 9    | Tattooed  |
-| 5    | Rosy       | 10   | Weathered |
+| 1 | Naskiĝomarko | 6 | Ronda |
+| 2 | Malhela | 7 | Mola |
+| 3 | Longigita | 8 | Sunbrunigita |
+| 4 | Pokmarkita | 9 | Tatuita |
+| 5 | Roza | 10 | Veterigita |
 
-#### Hair
+#### Hararo
 
-|  |         |      |           |
+| | | | |
 | ---- | ------- | ---- | --------- |
-| 1    | Bald    | 6    | Long      |
-| 2    | Braided | 7    | Luxurious |
-| 3    | Curly   | 8    | Oily      |
-| 4    | Filthy  | 9    | Wavy      |
-| 5    | Frizzy  | 10   | Wispy     |
+| 1 | Kalva | 6 | Longa |
+| 2 | Plektita | 7 | Luksa |
+| 3 | Bukla | 8 | Olea |
+| 4 | Malpura | 9 | Onda |
+| 5 | Frizzy | 10 | Wispy |
 
-#### Face
+#### Vizaĝo
 
-|  |           |      |          |
+| | | | |
 | ---- | --------- | ---- | -------- |
-| 1    | Bony      | 6    | Perfect  |
-| 2    | Broken    | 7    | Rat-like |
-| 3    | Chiseled  | 8    | Sharp    |
-| 4    | Elongated | 9    | Square   |
-| 5    | Pale      | 10   | Sunken   |
+| 1 | Osta | 6 | Perfekta |
+| 2 | Rompita | 7 | Ratsimila |
+| 3 | Ĉizita | 8 | Akra |
+| 4 | Longigita | 9 | Kvadrato |
+| 5 | Pala | 10 | Alfundiĝinta |
 
-#### Speech
+#### Parolado
 
-|  |         |      |            |
+| | | | |
 | ------ | ------- | ---- | ---------- |
-| 1      | Blunt   | 6    | Gravelly   |
-| 2      | Booming | 7    | Precise    |
-| 3      | Cryptic | 8    | Squeaky    |
-| 4      | Droning | 9    | Stuttering |
-| 5      | Formal  | 10   | Whispery   |
+| 1 | Blunt | 6 | Gravelly |
+| 2 | Eksplodante | 7 | Preciza |
+| 3 | Kripta | 8 | Grinanta |
+| 4 | Dronado | 9 | Balbutante |
+| 5 | Formala | 10 | Flustro |
 
-#### Clothing
+#### Vestoj
 
-|  |         |      |        |
+| | | | |
 | -------- | ------- | ---- | ------ |
-| 1        | Antique | 6    | Frayed |
-| 2        | Bloody  | 7    | Frumpy |
-| 3        | Elegant | 8    | Livery |
-| 4        | Filthy  | 9    | Rancid |
-| 5        | Foreign | 10   | Soiled |
+| 1 | Antikva | 6 | Frazita |
+| 2 | Sanga | 7 | Frumpy |
+| 3 | Eleganta | 8 | Livreo |
+| 4 | Malpura | 9 | Rancida |
+| 5 | Eksterlanda | 10 | Malpurigita |
 
-#### Virtue
+#### Virto
 
-|  |             |      |           |
+| | | | |
 | ------ | ----------- | ---- | --------- |
-| 1      | Ambitious   | 6    | Honorable |
-| 2      | Cautious    | 7    | Humble    |
-| 3      | Courageous  | 8    | Merciful  |
-| 4      | Disciplined | 9    | Serene    |
-| 5      | Gregarious  | 10   | Tolerant  |
+| 1 | Ambicia | 6 | Honorinda |
+| 2 | Singarda | 7 | Humila |
+| 3 | Kuraĝa | 8 | Kompatema |
+| 4 | Disciplinita | 9 | Serena |
+| 5 | Gregema | 10 | Tolerema |
 
 #### Vice
 
-|  |            |      |          |
+| | | | |
 | ---- | ---------- | ---- | -------- |
-| 1    | Aggressive | 6    | Lazy     |
-| 2    | Bitter     | 7    | Nervous  |
-| 3    | Craven     | 8    | Rude     |
-| 4    | Deceitful  | 9    | Vain     |
-| 5    | Greedy     | 10   | Vengeful |
+| 1 | Agresema | 6 | Maldiligenta |
+| 2 | Amara | 7 | Nervoza |
+| 3 | Craven | 8 | Malĝentila |
+| 4 | Trompa | 9 | Vana |
+| 5 | Avida | 10 | Venĝema |
 
-#### Reputation
+#### Reputacio
 
-|  |             |      |           |
+| | | | |
 | ---------- | ----------- | ---- | --------- |
-| 1          | Ambitious   | 6    | Loafer    |
-| 2          | Boor        | 7    | Oddball   |
-| 3          | Dangerous   | 8    | Repulsive |
-| 4          | Entertainer | 9    | Respected |
-| 5          | Honest      | 10   | Wise      |
+| 1 | Ambicia | 6 | Loafer |
+| 2 | Boor | 7 | Stranga |
+| 3 | Danĝera | 8 | Repuŝa |
+| 4 | Amuzisto | 9 | Respektata |
+| 5 | Honesta | 10 | Saĝa |
 
-#### Misfortunes
+#### Malfeliĉoj
 
-|  |             |      |             |
+| | | | |
 | ----------- | ----------- | ---- | ----------- |
-| 1           | Abandoned   | 6    | Defrauded   |
-| 2           | Addicted    | 7    | Demoted     |
-| 3           | Blackmailed | 8    | Discredited |
-| 4           | Condemned   | 9    | Disowned    |
-| 5           | Cursed      | 10   | Exiled      |
+| 1 | Forlasita | 6 | Fraŭdita |
+| 2 | Toksomaniulo | 7 | Degradita |
+| 3 | Ĉantaĝita | 8 | Misfamigita |
+| 4 | Kondamnita | 9 | Malakceptita |
+| 5 | Malbenita | 10 | Ekzilita |
 
 <p></p>
 
