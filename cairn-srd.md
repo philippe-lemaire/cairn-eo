@@ -14,7 +14,7 @@ nav_order: 2
 Legu la [repo](https://github.com/yochaigal/cairn) aŭ elŝutu la ludon en aliaj [formatoj](https://drive.google.com/drive/u/0/folders/1dNGoSErZRApJr6R7mI3BAOhfkr4SOpPm) (inkluzive de Word, Affinity, Google Docs, ktp.).
 
 **Cairn** estas aventurludo por unu faciliganto (la **Gardisto**) kaj almenaŭ unu alia ludanto.
-Ludantoj agas kiel harditaj aventuristoj esplorantaj malluman kaj misteran Lignon plenan de stranga homo, kaŝita trezoro kaj nedireblaj monstraĵoj.
+Ludantoj agas kiel harditaj aventuristoj esplorantaj malluman kaj misteran Arbaron plenan de stranga homo, kaŝita trezoro kaj nedireblaj monstraĵoj.
 
 <details close markdown="block">
   <summary id="index">
