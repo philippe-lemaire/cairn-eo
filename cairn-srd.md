@@ -4,138 +4,163 @@ title: SRD
 nav_order: 2
 ---
 
-# Cairn System Reference Document (v.1.0)
+# Referenca Dokumento de Cairn System (v.1.0)
+
 {: .no_toc }
 
 <p></p>
 
-**Cairn** is licensed under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).  
-Peruse the [repo](https://github.com/yochaigal/cairn) or download the game in other [formats](https://drive.google.com/drive/u/0/folders/1dNGoSErZRApJr6R7mI3BAOhfkr4SOpPm) (including Word, Affinity, Google Docs, etc.).
+**Cairn** estas licencita laŭ [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+Legu la [repo](https://github.com/yochaigal/cairn) aŭ elŝutu la ludon en aliaj [formatoj](https://drive.google.com/drive/u/0/folders/1dNGoSErZRApJr6R7mI3BAOhfkr4SOpPm) (inkluzive de Word, Affinity, Google Docs, ktp.).
 
-**Cairn** is an adventure game for one facilitator (the **Warden**) and at least one other player.
-Players act as hardened adventurers exploring a dark & mysterious Wood filled with strange folk, hidden treasure, and unspeakable monstrosities.
+**Cairn** estas aventurludo por unu faciliganto (la **Gardisto**) kaj almenaŭ unu alia ludanto.
+Ludantoj agas kiel harditaj aventuristoj esplorantaj malluman kaj misteran Lignon plenan de stranga homo, kaŝita trezoro kaj nedireblaj monstraĵoj.
 
 <details close markdown="block">
   <summary id="index">
-    Table of contents
+    Enhavtabelo
   </summary>
   {: .text-delta }
 - TOC
 {:toc}
 </details>
 
-## Overview
+## Superrigardo
 
-**Cairn** was written with the following design philosophies in mind:
+**Cairn** estis skribita kun la sekvaj dezajnofilozofioj en menso:
 
-### Neutrality  
-The Warden's role is to portray the rules, situations, NPCs, and narrative clearly, while acting as a neutral arbiter.
+### Neŭtraleco
 
-### Classless  
-A character's role or skills are not limited by a single class. Instead, the equipment they carry and their experiences define their specialty.
+La rolo de la Warden estas portreti la regulojn, situaciojn, NPCojn, kaj rakonton klare, agante kiel neŭtrala arbitracianto.
 
-### Death
-Characters may be powerful, but they are also vulnerable to harm in its many forms. Death is always around the corner, but it is never random or without warning.
+### Senklasa
 
-### Fiction First  
-Dice do not always reflect an obstacle's difficulty or its outcome. Instead, success and failure are arbitrated by the Warden in dialogue with the players, based on in-world elements.
+La rolo aŭ kapabloj de karaktero ne estas limigitaj fare de ununura klaso. Anstataŭe, la ekipaĵo kiun ili portas kaj iliaj spertoj difinas ilian specialaĵon.
 
-### Growth  
-Characters are changed through in-world advancement, gaining new skills and abilities by surviving dangerous events and overcoming obstacles.
+### Morto
 
-### Player Choice  
-Players should always understand the reasons behind the choices they've made, and information about potential risks should be provided freely and frequently.
+Karakteroj povas esti potencaj, sed ili ankaŭ estas vundeblaj al damaĝo en ĝiaj multaj formoj. Morto ĉiam estas ĉirkaŭ la angulo, sed ĝi neniam estas hazarda aŭ sen averto.
 
-### Principles  
-The Warden and the players each have guidelines that help foster a specific play experience defined by critical thinking, exploration, and an emergent narrative.
+### Fikcio Unue
 
-### Shared Objectives
-Players trust one another to engage with the shared setting, character goals, and party challenges. Therefore, the party is typically working together towards a common goal, as a team.
+Ĵetkuboj ne ĉiam reflektas la malfacilecon de malhelpo aŭ ĝian rezulton. Anstataŭe, sukceso kaj fiasko estas arbitraciitaj fare de la Prizonestro en dialogo kun la ludantoj, surbaze de en-mondaj elementoj.
+
+### Kresko
+
+Karakteroj estas ŝanĝitaj per en-monda akcelo, akirante novajn kapablojn kaj kapablojn postvivante danĝerajn okazaĵojn kaj venkante obstaklojn.
+
+### Ludanto Elekto
+
+Ludantoj ĉiam devus kompreni la kialojn malantaŭ la elektoj kiujn ili faris, kaj informoj pri eblaj riskoj devus esti provizitaj libere kaj ofte.
+
+### Principoj
+
+La Prizonestro kaj la ludantoj ĉiu havas gvidliniojn kiuj helpas kreskigi specifan ludsperton difinitan per kritika pensado, esplorado kaj emerĝa rakonto.
+
+### Kunigitaj Celoj
+
+Ludantoj fidas unu la alian por okupiĝi pri la komuna agordo, karakterceloj kaj partiaj defioj. Tial, la partio tipe laboras kune direkte al komuna celo, kiel teamo.
+
+[reen al indekso](# indekso)
+<p></p>
+
+## Principoj por Gardistoj
+
+### Informoj
+
+- Provizu utilajn informojn pri la ludmondo dum la roluloj esploras ĝin.
+- Ludantoj ne bezonas ĵeti ĵetkubojn por lerni pri siaj cirkonstancoj.
+- Estu helpema kaj rekta kun viaj respondoj al iliaj demandoj.
+- Respondu honeste, priskribu konsekvence kaj ĉiam sciigu ilin, ke ili daŭre povas demandi demandojn.
+
+### Malfacilo
+
+- Defaŭlte al kunteksto kaj realismo prefere ol nombroj kaj mekaniko.
+- Se io, kiun la ludantoj volas fari, estas sincere neebla, neniu rulo permesos al ili fari ĝin.
+- Ĉu tio estas prudenta, kion la ludanto priskribas kaj kiel ili utiligas la situacion? Lasu ĝin okazi.
+- Ŝparaĵoj kovras multajn necertajn situaciojn kaj ofte estas ĉio, kio estas necesa por riskaj agoj.
+
+### Preparo
+
+- La ludmondo estas organika, modebla kaj hazarda. Ĝi intuicias kaj faras akrajn turnojn.
+- Uzu hazardajn tabelojn kaj generatorojn por disvolvi situaciojn, ne rakontojn aŭ intrigojn.
+- NPCoj memoras kion la komputiloj diras kaj faras, kaj kiel ili influas la mondon.
+- NPC-oj ne volas morti. Infuzi sian propran intereson kaj volon vivi en ĉiun personecon.
+
+### Rakonta Fokuso
+
+- Gravas emerĝa sperto de ludo, ne matematikaj aŭ karakteroj. Donu al la ludantoj armiltrejnistojn kaj personajn serĉojn por faciligi plibonigon kaj specialiĝon.
+- Atentu la bezonojn kaj dezirojn de la ludantoj, tiam metu realismajn ŝancojn sur ilian vojon.
+- Ponardo al via gorĝo mortigos vin, sendepende de via multekosta kiraso kaj impona trejnado.
+
+### Danĝero
+
+- La ludmondo produktas realan riskon de doloro kaj morto por la rolantoj.
+- Telegrafi seriozan danĝeron por ludantoj kiam ĝi ĉeestas. Ju pli danĝera, des pli evidenta.
+- Metu kaptilojn en klara vido kaj lasu la ludantojn preni tempon por eltrovi solvon.
+- Donu al ludantoj ŝancojn solvi problemojn kaj interagi kun la mondo.
+
+### Trezoro
+
+- Trezoro estas specifa por la medio de kie ĝi estas reakirita. Ĝi rakontas historion.
+- Trezoro estas tre valora, preskaŭ ĉiam dika, kaj malofte utila preter sia valoro kaj prestiĝo.
+- Relikvoj ne estas Trezoro, kvankam ili estas utilaj kaj interesaj.
+- Uzu Trezoron kiel allogaĵon al ekzotikaj lokoj sub la protekto de timigaj malamikoj.
+
+### Elekto
+
+- Donu al ludantoj solidan elekton por devigi rezultojn kiam la situacio trankviliĝas.
+- Uzu duuman "do, A aŭ B?" respondojn kiam iliaj intencoj estas neklaraj.
+- Kunlaboru uzante ĉi tiun konversacian metodon por daŭrigi la ludon.
+- Certigu, ke la agoj de la ludanto lasas sian markon sur la ludmondo.
+
+### Mortu de Sorto
+
+- Okaze vi deziros elementon de hazardo (ekz. la vetero, unika karaktero scio, ktp.).
+- En ĉi tiuj situacioj, rulu 1d6
 
 [back to index](#index)
 <p></p>
 
-## Principles for Wardens
-### Information
-- Provide useful information about the game world as the characters explore it.
-- Players do not need to roll dice to learn about their circumstances.
-- Be helpful and direct with your answers to their questions.
-- Respond honestly, describe consistently, and always let them know they can keep asking questions.
+## Principoj por Ludantoj
 
-### Difficulty
-- Default to context and realism rather than numbers and mechanics.
-- If something the players want to do is sincerely impossible, no roll will allow them to do it.
-- Is what the player describes and how they leverage the situation sensible? Let it happen.
-- Saves cover a great deal of uncertain situations and are often all that is necessary for risky actions.
+### Agentejo
 
-### Preparation
-- The game world is organic, malleable and random. It intuits and makes sharp turns.
-- Use random tables and generators to develop situations, not stories or plots.
-- NPCs remember what the PCs say and do, and how they affect the world.
-- NPCs don't want to die. Infuse their own self-interest and will to live into every personality.
+- Atributoj kaj rilataj ŝparaĵoj ne difinas vian karakteron. Ili estas iloj.
+- Ne demandu nur kion farus via rolulo, demandu ankaŭ kion vi farus.
+- Estu kreema kun viaj intuicioj, aĵoj kaj rilatoj.
 
-### Narrative Focus  
-- Emergent experience of play is what matters, not math or character abilities. Give the players weapon trainers and personal quests to facilitate improvement and specialization.
-- Pay attention to the needs and wants of the players, then put realistic opportunities in their path.
-- A dagger to your throat will kill you, regardless of your expensive armor and impressive training.
+### Teamlaboro
 
-### Danger  
-- The game world produces real risk of pain and death for the player characters.
-- Telegraph serious danger to players when it is present. The more dangerous, the more obvious.
-- Put traps in plain sight and let the players take time to figure out a solution.
-- Give players opportunities to solve problems and interact with the world.
+- Serĉu konsenton de la aliaj ludantoj antaŭ ol antaŭeniri.
+- Restu sur la sama paĝo pri celoj kaj limoj, respektante unu la alian kaj plenumante pli kiel grupo ol sole.
 
-### Treasure  
-- A Treasure is specific to the environment from where it is recovered. It tells a story.
-- Treasure is highly valuable, almost always bulky, and rarely useful beyond its worth and prestige.
-- Relics are not Treasure, though they are useful and interesting.
-- Use Treasure as a lure to exotic locations under the protection of intimidating foes.
+### Esplorado
 
-### Choice  
-- Give players a solid choice to force outcomes when the situation lulls.
-- Use binary "so, A or B?" responses when their intentions are vague.
-- Work together using this conversational method to keep the game moving.
-- Ensure that the player character's actions leave their mark on the game world.
+- Demandi kaj aŭskulti detalojn estas pli utila ol iuj ajn statistikoj, aĵoj aŭ kapabloj, kiujn vi havas.
+- Prenu la priskribon de la Gardisto sen suspekto, sed ne hezitu serĉi pliajn informojn.
+- Ne ekzistas ununura ĝusta vojo antaŭen.
 
-### Die of Fate  
-- Occasionally you will want an element of randomness (e.g. the weather, unique character knowledge, etc.).
-- In these situations, roll 1d6. A roll of 4 or more generally favors the players.
-- A roll of 3 or under tends to mean bad luck for the PCs or their allies.
+### Parolante
 
-[back to index](#index)
-<p></p>
+- Traktu NPC-ojn kvazaŭ ili estus realaj homoj, kaj fidu vian scivolemon por sekure akiri informojn kaj solvi problemojn.
+- Vi trovos, ke la plej multaj homoj estas interesaj kaj volos priparoli aferojn antaŭ ol perfortiĝi.
 
-## Principles for Players
-### Agency
-- Attributes and related saves do not define your character. They are tools.
-- Don't ask only what your character would do, ask what you would do, too.
-- Be creative with your intuition, items, and connections.
+### Atentu
 
-### Teamwork
-- Seek consensus from the other players before barreling forward.
-- Stay on the same page about goals and limits, respecting each other and accomplishing more as a group than alone.
+- Batali estas elekto kaj malofte saĝa; pripensu ĉu perforto estas la plej bona maniero atingi viajn celojn.
+- Provu starigi la probablecon en via favoro kaj retiriĝi kiam aferoj ŝajnas malfavoraj.
 
-### Exploration
-- Asking questions and listening to detail is more useful than any stats, items, or skills you have.
-- Take the Warden's description without suspicion, but don't shy away from seeking more information.
-- There is no single correct way forward.
+### Planado
 
-### Talking
-- Treat NPCs as if they were real people, and rely on your curiosity to safely gain information and solve problems.
-- You'll find that most people are interesting and will want to talk things through before getting violent.
+- Pensu pri manieroj eviti viajn obstaklojn per sciigo, subtileco kaj fakttrovo.
+- Esploru kaj demandu pri viaj celoj.
 
-### Caution
-- Fighting is a choice and rarely a wise one; consider whether violence is the best way to achieve your goals.
-- Try to stack the odds in your favor and retreat when things seem unfavorable.
+### Ambicio
 
-### Planning
-- Think of ways to avoid your obstacles through reconnaissance, subtlety, and fact-finding.
-- Do some research and ask around about your objectives.
-
-### Ambition
-- Set goals and use your meager means to take steps forward.
-- Expect nothing. Earn your reputation.
-- Keep things moving forward and play to see what happens.
+- Fiksu celojn kaj uzu viajn malfortajn rimedojn por fari paŝojn antaŭen.
+- Atendu nenion. Gajnu vian reputacion.
+- Daŭrigu aferojn antaŭen kaj ludu por vidi kio okazas.
 
 [back to index](#index)
 <p></p>
@@ -143,14 +168,16 @@ Players trust one another to engage with the shared setting, character goals, an
 ## Character Creation
 
 #### Name, Background & Traits
+
 First, choose or roll your PC’s **name** and **background** from their respective [tables](#name--background-d20). A PC’s background informs their potential knowledge and skills.
 
 Next, roll for the rest of your character's **traits** (appearance, speech, mannerisms, beliefs, reputation, etc.) on the [**Character Traits**](#character-traits-d10) tables.
 
 Finally, roll for their **age** (2d20+10).
 
-#### Ability Scores  
-Player Characters (PCs) have just three attributes:  
+#### Ability Scores
+
+Player Characters (PCs) have just three attributes:
 **Strength (STR)**, **Dexterity (DEX)**, and **Willpower (WIL)**. When creating a PC, the player should roll 3d6 for each of their character's ability scores, in order. They may then swap any two of the results.
 
 <details markdown="block">
@@ -161,10 +188,12 @@ Expand For Example
 
 </details>
 
-### Hit Protection  
+### Hit Protection
+
 Roll 1d6 to determine your PC's starting **Hit Protection** (HP), which reflects their ability to avoid damage in combat. HP does not indicate a character's health or fortitude; nor do they lose it for very long (see **Healing**). If an attack takes a PC's HP exactly to 0, the player must roll on the [**Scars**](/cairn-srd#scars-1) table.
 
 #### Inventory
+
 Characters have a total of 10 inventory slots: a backpack with six slots, one slot for each hand, and two slots for their upper body (such as the belt, chest, or head). The backpack can also double as an emergency sleeping bag but only if emptied of its contents.
 
 Most items take up one slot, and small items can be bundled together. Slots are abstract and can be rearranged per the Warden's discretion.
@@ -174,6 +203,7 @@ Most items take up one slot, and small items can be bundled together. Slots are 
 A PC cannot carry more items than their inventory allows. Carts (which must be pulled with both hands), horses, or mules can increase inventory.  **Hirelings** can also be paid to carry equipment.
 
 #### Starting Gear
+
 All PCs begin with:
 
 - Three days' rations (one slot)
@@ -199,7 +229,6 @@ If you would like something closer to traditional classes, refer to the list of 
 |3     | Breagan   |8          |Esme       |13        |Lisabeth |18    |Wenain    |
 |4     | Bronwyn   |9          |Griya      |14        |Moralil  |19    |Ygwal     |
 |5     | Cannora   |10         |Henaine    |15        |Morgwen  |20    |Yslen     |
-
 
 #### Male Names
 
@@ -390,7 +419,7 @@ If you would like something closer to traditional classes, refer to the list of 
 | 4    | Face Paint  | 9    | Lens       | 14   | Salt Pack   | 19   | Twine   |
 | 5    | Fake Jewels | 10   | Marbles    | 15   | Small Bell  | 20   | Whistle |
 
-#### 																		Bonus Item (roll on table indicated)
+#### Bonus Item (roll on table indicated)
 
 |                  |                    |                 |           |
 | :--------------: | :----------------: | :-------------: | :-------: |
@@ -399,7 +428,7 @@ If you would like something closer to traditional classes, refer to the list of 
 
 <p></p>
 
-#### 																						Spellbooks (d100)
+#### Spellbooks (d100)
 
 |||||||||
 |---|-----------------|---|----------------|---|---------------|---|---------------|
@@ -431,7 +460,7 @@ If you would like something closer to traditional classes, refer to the list of 
 
 <p></p>
 
-## Equipment List (Prices in Gold Pieces)  
+## Equipment List (Prices in Gold Pieces)
 
 #### Armor
 
@@ -490,7 +519,7 @@ If you would like something closer to traditional classes, refer to the list of 
 
 <p></p>
 
-## Optional Gear Packages  
+## Optional Gear Packages
 
 #### Cleric
 
@@ -606,7 +635,9 @@ If you would like something closer to traditional classes, refer to the list of 
 <p></p>
 
 ## Rules
+
 ### Abilities
+
 Each of the three **abilities** are used in different circumstances (see **saves**, below).
 
 **Strength (STR)**: Used for saves requiring physical power, like lifting gates, bending bars, resisting poison, etc.
@@ -616,6 +647,7 @@ Each of the three **abilities** are used in different circumstances (see **saves
 **Willpower (WIL)**: Used for saves to persuade, deceive, interrogate, intimidate, charm, provoke, manipulate spells, etc.
 
 ### Saves
+
 A save is a roll to avoid bad outcomes from risky choices and circumstances. PCs roll a d20 for an appropriate ability score. If they roll equal to or under that ability score, they pass. Otherwise, they fail. A 1 is always a success, and a 20 is always a failure.
 
 <details markdown="block">
@@ -627,17 +659,21 @@ Expand For Example
 </details>
 
 ### Healing
+
 Resting for a few moments and having a drink of water restores lost HP but leaves the party exposed. Ability loss (see **Critical Damage**) can usually be restored with a week's rest facilitated by a healer or other appropriate source of expertise. Some of these services are free, while magical or more expedient means of recovery may come at a cost.
 
 ### Deprivation & Fatigue
+
 A PC **deprived** of a crucial need (such as food or rest) is unable to recover HP or ability scores. Anyone deprived for more than a day adds **Fatigue** to their inventory, one for each day. Each Fatigue occupies one slot and lasts until they are able to recuperate (such as a full night's rest in a safe spot). PCs can also gain Fatigue by **casting spells** or through events in the fiction.
 
 ### Armor
-Before calculating damage to HP, subtract the target's **Armor** value from the result of damage rolls. Shields and similar armor provide a bonus defense (e.g. +1 Armor), but only while the item is held or worn.  
-No one can have more than 3 Armor.  
+
+Before calculating damage to HP, subtract the target's **Armor** value from the result of damage rolls. Shields and similar armor provide a bonus defense (e.g. +1 Armor), but only while the item is held or worn.
+No one can have more than 3 Armor.
 Shields, gauntlets, and helms may provide additional benefits according to their use.
 
 ### Reactions
+
 When the PCs encounter an NPC whose reaction to the party is not obvious, the Warden may roll 2d6 and consult the following table:
 
 | | | | | |
@@ -646,12 +682,15 @@ When the PCs encounter an NPC whose reaction to the party is not obvious, the Wa
 | Hostile | Wary | Curious | Kind | Helpful |
 
 ### Morale
+
 Enemies must pass a WIL save to avoid fleeing when they take their first casualty and again when they lose half their number. Some groups may use their leader's WIL in place of their own. Lone foes must save when they're reduced to 0 HP. Morale does not affect PCs.
 
 ### Hirelings
+
 PCs can hire **hirelings** to aid them in their expeditions. To create a hireling, roll 3d6 for each ability score, then give them 1d6 HP and a simple weapon (d6), then roll on the [**Character Creation**](#character-creation) tables to further flesh them out. Hirelings cost between 1-3gp per day, or a share of whatever treasure the party obtains.
 
 ### Wealth & Treasure
+
 The most common coin is the gold piece (gp), which is equal to 10 silver pieces (sp) and 100 copper pieces (cp).
 
 Treasure is highly valuable, usually bulky, and rarely useful beyond its value. It can be a lure, taking PCs to exotic and even dangerous locations, and is often under the protection of intimidating foes.
@@ -659,6 +698,7 @@ Treasure is highly valuable, usually bulky, and rarely useful beyond its value. 
 Villages, strongholds, and ports of call barter and trade based on the local rarity and value of an item or commodity.
 
 ## Magic
+
 **Spellbooks** contain a single spell and take up one slot. They cannot be transcribed or created; instead they are recovered from places like tombs, dungeons, and manors.
 
 Spellbooks sometimes display unusual properties or limitations, such as producing a foul or unearthly smell when opened, possessing an innate intelligence, or being legible only when held in moonlight.
@@ -672,9 +712,11 @@ Spellbooks will attract the attention of those who seek the arcane power within,
 - They disappear after one use.
 
 ### Casting Spells
+
 Anyone can cast a spell by holding a Spellbook in both hands and reading its contents aloud. They must then add a Fatigue to inventory, occupying one slot. Given time and safety, PCs can _enhance_ a spell's impact (e.g., affecting multiple targets, increasing its power, etc.) without any additional cost. If the PC is deprived or in danger, the Warden may require a PC to make a WIL save to avoid any ill-effects from casting the spell. Consequences of failure are on par with the intended effect, and may result in added Fatigue, the destruction of the Spellbook, injury, and even death.
 
 ### Relics
+
 **Relics** are items imbued with a magical spell or power. They do not cause Fatigue. Relics usually have a limited use, as well as a recharge condition. A few examples:
 
 **Honeyclasp** , 3 charges. A rusted ring that shrinks the bearer to 6" tall. Recharge: place in a thimble-sized cup of royal jelly.
@@ -688,14 +730,17 @@ Anyone can cast a spell by holding a Spellbook in both hands and reading its con
 ## Combat
 
 ### Rounds
+
 The game typically plays without strict time accounting. In a fight or circumstance where timing is helpful, use rounds to keep track of when something occurs. A **round** is roughly ten seconds of in-game time and is comprised of turns.
 
-### Actions  
+### Actions
+
 On their turn, a character may move up to 40ft and take up to one action. This may be casting a spell, attacking, making a second move, or some other reasonable action.
 
 Each round, the PCs declare what they are doing before dice are rolled. If a character attempts something risky, the Warden calls for a save for appropriate players or NPCs.
 
 ### Turns
+
 The Warden will telegraph the most likely actions taken by NPCs or monsters. At the start of combat, each PC must make a DEX save to act before their opponents.
 
 <details markdown="block">
@@ -706,6 +751,7 @@ Expand For Example
 </details>
 
 ### Attacking & Damage
+
 The attacker rolls their weapon die and subtracts the target's armor, then deals the remaining total to their opponent's HP. Unarmed attacks always do 1d4 damage.
 
 <details markdown="block">
@@ -715,45 +761,56 @@ Expand For Example
  _The Wood Troll roars, swinging its club at Bea, who has 5 HP. The club does 1d10 damage and the Warden rolls a 4. They subtract 1 to account for Bea's  leather armor, leaving Bea with 2 HP remaining_.
 </details>
 
-### Multiple Attackers  
+### Multiple Attackers
+
 If multiple attackers target the same foe, roll all damage dice and keep the single highest result.
 
 ### Attack Modifiers
+
 If fighting from a position of weakness (such as through cover or with bound hands), the attack is **impaired** and the attacker must roll 1d4 damage regardless of the attacks damage die.
 
 If fighting from a position of advantage (such as against a helpless foe or through a daring maneuver), the attack is **enhanced**, allowing the attacker to roll 1d12 damage instead of their normal die.
 
 ### Dual Weapons
+
 If attacking with two weapons at the same time, roll both damage dice and keep the single highest result.
 
-### Blast  
+### Blast
+
 Attacks with the **blast** quality affect all targets in the noted area, rolling separately for each affected character. Blast refers to anything from explosions to huge cleaving onslaughts to the impact of a meteorite. If unsure how many targets can be affected, roll the related damage die for a result.
 
 ### Critical Damage
+
 Damage that reduces a target's HP below zero decreases a target's STR by the amount remaining. They must then make a STR save to avoid **critical damage**. Additionally, some enemies will have special abilities or effects that are triggered when their target fails a critical damage save.
 
 Any PC that suffers critical damage cannot do anything but crawl weakly, grasping for life. If given aid and rest, they will stabilize. If left untreated, they die within the hour.
 
 ### Ability Score Loss
+
 If a PC's STR is reduced to 0, they die. If their DEX is reduced to 0, they are paralyzed. If their WIL is reduced to 0, they are delirious.
-Complete DEX and WIL loss renders the character unable to act until they are restored through extended rest or by extraordinary means.  
+Complete DEX and WIL loss renders the character unable to act until they are restored through extended rest or by extraordinary means.
 
 ### Scars
+
 When damage to a PC reduces their HP to exactly 0, they are sometimes changed irrevocably. See the [**Scars**](/cairn-srd#scars-1) table for more.
 
 ### Unconsciousness & Death
+
 When a character dies, the player is free to create a new character or take control of a hireling. They immediately join the party in order to reduce downtime.
 
 ### Detachments
+
 Large groups of similar combatants fighting together are treated as a single **detachment**. When a detachment takes critical damage, it is routed or significantly weakened. When it reaches 0 STR, it is destroyed.
 
-Attacks against detachments by individuals are **impaired** (excluding blast damage).  
+Attacks against detachments by individuals are **impaired** (excluding blast damage).
 Attacks against individuals by detachments are **enhanced** and deal blast damage.
 
 ### Retreat
+
 Running away from a dire situation always requires a successful DEX save, as well as a safe destination to run to.
 
 ### Scars
+
 When an attack reduces a PC's HP to exactly 0, they are uniquely impacted. Look up the result on the table below based on the total damage taken:
 
 |      |                                                              |
@@ -776,60 +833,71 @@ When an attack reduces a PC's HP to exactly 0, they are uniquely impacted. Look 
 
 ## Bestiary
 
-**Root Goblin**  
+**Root Goblin**
 4 HP, 8 STR, 14 DEX, 8 WIL, spear (d6)
+
 - Avoid combat unless they have the advantage (such as greater numbers).
 - Guard their stolen goods to the death.
 - Prize Spellbooks; willing to trade.
 
-**Hooded Men**  
+**Hooded Men**
 12 HP, 9 STR, 12 DEX, 14 WIL, leystaff (d8), a Spellbook (Choose one: _Charm, Hypnotize, Push/Pull, Shield_)
+
 - The Watchers of the Wood; a cult that derive their power from leylines, rune stones, and the like.
 - Critical damage: leech a part of the victim's soul (1d4 WIL damage).
 
-**Cobblehounds**  
+**Cobblehounds**
 12 HP, 2 Armor, 14 STR, 1 DEX, 8 WIL, bite (d10)
+
 - Immobile constructs typically used as guardians to great tombs or artifacts.
 - Unaffected by mundane persuasion techniques - but do love a good bone.
 
-**Wood Troll**   
+**Wood Troll**
 12 HP, 15 STR, 12 DEX, 7 WIL, claws and bite (d8+d8 blast)
+
 - As an action, can recover lost HP.
 - Critical damage: moss and twigs begin growing out of target's wounds.
 
-**Frost Elf**  
+**Frost Elf**
 14 HP, 1 Armor, 8 STR, 13 DEX, 14 WIL, icicle dagger (d6), a Spellbook (Choose one: _Sleep, Teleport, Detect Magic)_
+
 - Beautiful, amoral, and long-lived.
 - Resistant to most forms of magic.
 
-**Boggart**  
+**Boggart**
 3 HP, 4 STR, 17 DEX, 13 WIL
+
 - A wild, hairy trickster that takes pleasure in being a minor nuisance.
 - Prizes relics and shiny trinkets above all else but unwilling to trade for coin.
 - Boggarts have names that describe their true nature. Knowing their true name allows one to control a Boggart.
 
 ### Creating Monsters
+
 Use the following template to model any more sophisticated Monster or NPC:
 
 **Name**
 X HP, X Armor, X STR, X DEX, X WIL, Weapon (dX, special items, qualities)
+
 - Engaging descriptor of appearance or demeanor
 - Quirk, tactic, or peculiarity making this NPC unique
 - Special effect or critical damage consequence
 
-**General Principles**  
-Ability Scores: 3 is deficient, 6 is weak, 10 is average, 14 is noteworthy, and 18 is legendary. Adjust as necessary.  
+**General Principles**
+Ability Scores: 3 is deficient, 6 is weak, 10 is average, 14 is noteworthy, and 18 is legendary. Adjust as necessary.
+
 - Give average creatures 3 HP, give hardy ones 6 HP, and serious threats get 10+ HP.
 - Use flavor and style to help them stand out. Players will remember a pig-faced humanoid looking for his missing sheep more easily than a generic goblin archer.
 - Use critical damage to lean into the threat or strangeness of any aggressive NPC.
 - Remember that HP is **Hit Protection** , not Hit Points. It's a measure of resilience, luck, and gumption - not health.
 
-**Converting from OSR Games**  
+**Converting from OSR Games**
+
 - Give 1 HP per HD for most creatures.
 - Most humanoids have at least 4HP.
 - **Morale** can also be used as a baseline.
 
-Some pointers:  
+Some pointers:
+
 - Is it good at avoiding a hit? Give it HP.
 - Does it soak up damage? Give it Armor.
 - Is it strong? Give it a high **STR**.
@@ -944,48 +1012,48 @@ Damage die are roughly the same, though armed attacks do at least 1d6 damage.
 | 97   | [Web](#web)                             | Your wrists shoot thick webbing.                             |
 | 98   | [Widget](#widget)                       | A primitive version of a drawn tool or item appears before you and disappears after a short time. |
 | 99   | [Wizard Mark](#wizard-mark)             | Your finger can shoot a stream of ulfire-colored paint. This paint is only visible to you and can be seen at any distance, even through solid objects. |
-| 100  | [X-Ray Vision](#x-ray-vision)           | You can see through walls, dirt, clothing, etc.              | 
-
+| 100  | [X-Ray Vision](#x-ray-vision)           | You can see through walls, dirt, clothing, etc.              |
 
 [back to index](#index)
 <p></p>
 
 # Rules Summary
 
-**ACTIONS**  
+**ACTIONS**
 On their turn, a character may move up to 40ft and take up to one action. Actions may include casting a spell, attacking, making a second move, or other reasonable activities. Actions, attacks, and movements take place simultaneously. Whenever turn order is uncertain, the PCs should make a DEX save to see if they go before their enemies.
 
 **Retreating** from a dangerous situation always requires a successful DEX save, as well as a safe destination to run to.
 
-**ABILITIES**  
-**STR:** Brawn, prowess & resistance.   
-**DEX:** Dodging, sneaking & reflexes.   
+**ABILITIES**
+**STR:** Brawn, prowess & resistance.
+**DEX:** Dodging, sneaking & reflexes.
 **WIL:**  Persuasion, intimidation & magic.
 
-**SAVES**  
+**SAVES**
+
 - Roll a d20 equal to or under an ability.
 - 1 is always a success, 20 is always a failure.
 
-**HIT PROTECTION**  
+**HIT PROTECTION**
 **HP** indicates a PC's ability to avoid getting hurt. It is lost during combat & recovered after a few moment's rest.
 
-**INVENTORY**  
+**INVENTORY**
 PCs have 10 inventory slots: four on their body and six in their backpack (which acts as a sleeping bag if emptied). Most items take up a one slot, but smaller items can be bundled. **Bulky** items take up two slots and are awkward or difficult to carry.
 
 Filling all ten item slots reduces a PC to 0 HP. PCs cannot carry more than their inventory allows, though carts & horses may provide an increase in slots.
 
-**DEPRIVATION**  
+**DEPRIVATION**
 **Deprived** PCs cannot recover HP. If deprived for more than a day,they add a **Fatigue** to inventory. Fatigue occupies one slot and lasts until they can recover in safety. This effect is cumulative.
 
-**HEALING**  
+**HEALING**
 A moment's rest and a swig of water will restore lost HP, but may leave the party vulnerable. **Ability** loss requires a week's rest and the aid of a skilled healer.
 
-**SPELLBOOKS**  
+**SPELLBOOKS**
 Spellbooks contain a single spell and take up one item slot. Anyone can cast a spell by holding a Spellbook in both hands and reading its contents aloud. Casting a spell adds **Fatigue** to the PC's inventory.
 
 Given time and safety, PCs can enhance a spell without any additional cost. If they are deprived or in danger, a WIL save may be required to avoid terrible consequences.
 
-**COMBAT**  
+**COMBAT**
 The attacker rolls their weapon die and subtracts the target's Armor, then deals the remaining total to their opponent's HP.
 
 Before calculating damage to HP, subtract the target's **Armor** value from the result of damage rolls. Shields and similar armor provides a bonus defense (e.g. +1 Armor), but only while the item is held or worn.
@@ -996,9 +1064,9 @@ No one can have more than 3 Armor.
 
 If an attack is **impaired** , the damage die is reduced to 1d4, regardless of weapon. If the attack is **enhanced**, the attacker rolls 1d12. Attacks with the **blast** quality affect all area targets, rolling separately for each.
 
-**DAMAGE**  
+**DAMAGE**
 If an attack reduces a PC’s HP exactly to 0, refer to the [**Scars**](/cairn-srd#scars-1) table.
- 
+
 Damage that reduces a target's HP **below** 0 decreases their STR by the remainder. They must then make a STR save to avoid **critical damage.**  Failure takes them out of combat, dying if left untreated.
 
 Having STR 0 means **death;** having DEX 0 is paralysis; having WIL 0 is delirium.
