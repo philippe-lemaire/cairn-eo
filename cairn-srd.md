@@ -84,7 +84,7 @@ Ludantoj fidas unu la alian por okupiĝi pri la komuna agordo, karakterceloj kaj
 
 - La ludmondo estas organika, modebla kaj hazarda. Ĝi intuicias kaj faras akrajn turnojn.
 - Uzu hazardajn tabelojn kaj generatorojn por disvolvi situaciojn, ne rakontojn aŭ intrigojn.
-- NPCoj memoras kion la komputiloj diras kaj faras, kaj kiel ili influas la mondon.
+- NPCoj memoras kion la ludanta karacteroj diras kaj faras, kaj kiel ili influas la mondon.
 - NPC-oj ne volas morti. Infuzi sian propran intereson kaj volon vivi en ĉiun personecon.
 
 ### Rakonta Fokuso
@@ -167,9 +167,9 @@ Ludantoj fidas unu la alian por okupiĝi pri la komuna agordo, karakterceloj kaj
 
 ## Kreado de Karaktero
 
-#### Nomo, Fono & Trajtoj
+#### Nomo, Laborhistorio & Trajtoj
 
-Unue, elektu aŭ ruligu la **nomon** kaj **fonon** de via komputilo el iliaj respektivaj [tabeloj] (#nomo--fono-d20). La fono de komputilo informas iliajn eblajn sciojn kaj kapablojn.
+Unue, elektu aŭ ruligu la **nomon** kaj **laborhistorion** de via ludanta karactero el iliaj respektivaj [tabeloj] (#nomo--fono-d20). La fono de ludanta karactero informas iliajn eblajn sciojn kaj kapablojn.
 
 Poste, rulu por la ceteraj **trajtoj** de via rolulo (aspekto, parolo, manieroj, kredoj, reputacio, ktp.) sur la [**Caracteraj Trajtoj**](#character-traits-d10) tabloj.
 
@@ -177,8 +177,8 @@ Fine, rulu por ilia **aĝo** (2d20+10).
 
 #### Kapablaj Poentoj
 
-Ludantaj karakteroj (komputiloj) havas nur tri atributojn:
-**Forto (STR)**, **Lerteco (DEX)**, kaj **Volforto (WIL)**. Kreante komputilon, la ludanto devas ruliĝi 3d6 por ĉiu el la kapablopoentaro de sia karaktero, en ordo. Ili tiam povas interŝanĝi iujn ajn du el la rezultoj.
+Ludantaj karakteroj (ludantaj karacteroj) havas nur tri atributojn:
+**Forto (STR)**, **Lerteco (DEX)**, kaj **Volforto (WIL)**. Kreante ludantan karacteron, la ludanto devas ruliĝi 3d6 por ĉiu el la kapablopoentaro de sia karaktero, en ordo. Ili tiam povas interŝanĝi iujn ajn du el la rezultoj.
 
 <details markdown="block">
   <summary>
@@ -190,7 +190,7 @@ Ines ruliĝas por la **STR** de sia karaktero, rezultigante **2**, **4** kaj **6
 
 ### Bata Protekto
 
-Rulu 1d6 por determini la komencan **Hit Protection** (HP) de via komputilo, kiu reflektas ilian kapablon eviti damaĝon en batalo. HP ne indikas la sanon aŭ forton de karaktero; nek ili tre longe perdas ĝin (vidu **Resanigo**). Se atako prenas HP de komputilo precize al 0, la ludanto devas ruliĝi sur la [**Scars**](/cairn-srd#scars-1) tablo.
+Rulu 1d6 por determini la komencan **Hit Protection** (HP) de via ludanta karactero, kiu reflektas ilian kapablon eviti damaĝon en batalo. HP ne indikas la sanon aŭ forton de karaktero; nek ili tre longe perdas ĝin (vidu **Resanigo**). Se atako prenas HP de ludanta karactero precize al 0, la ludanto devas ruliĝi sur la [**Scars**](/cairn-srd#scars-1) tablo.
 
 #### Inventaro
 
@@ -200,17 +200,17 @@ Plej multaj eroj okupas unu fendon, kaj malgrandaj aĵoj povas esti kunmetitaj. 
 
 **Dimensaj** aĵoj okupas du fendojn kaj estas kutime dumane aŭ mallerte por porti. Iu ajn portanta plenan inventaron (t.e. plenigante ĉiujn 10 fendojn) estas reduktita al 0 HP.
 
-Komputilo ne povas porti pli da eroj ol ilia inventaro permesas. Ĉaroj (kiuj devas esti tiritaj per ambaŭ manoj), ĉevaloj aŭ muloj povas pliigi stokregistron. **Dungantoj** ankaŭ povas esti pagitaj por porti ekipaĵon.
+Ludanta karactero ne povas porti pli da eroj ol ilia inventaro permesas. Ĉaroj (kiuj devas esti tiritaj per ambaŭ manoj), ĉevaloj aŭ muloj povas pliigi stokregistron. **Dungantoj** ankaŭ povas esti pagitaj por porti ekipaĵon.
 
 #### Komencante Ilaron
 
-Ĉiuj komputiloj komenciĝas per:
+Ĉiuj ludantaj karacteroj komenciĝas per:
 
 - Tritagaj porcioj (unu fendo)
 - Torĉo (unu fendo)
 - 3d6 oraj pecoj
 
-Rulu unufoje sur ĉiu el la **Starting Gear**-tabloj por determini la kirason, armilojn, ilojn kaj ekipaĵojn de via komputilo. Se indikite, rulu sur la [**Spellbooks**](#spellbooks-d100) tablon kun d100 (aŭ rulu 2d10, uzante unu ĵetkubon kiel la unuoj, kaj la alian kiel la dekoj). Elektu nur unu objekton por ĉiu rezulto.
+Rulu unufoje sur ĉiu el la **Starting Gear**-tabloj por determini la kirason, armilojn, ilojn kaj ekipaĵojn de via ludanta karactero. Se indikite, rulu sur la [**Spellbooks**](#spellbooks-d100) tablon kun d100 (aŭ rulu 2d10, uzante unu ĵetkubon kiel la unuoj, kaj la alian kiel la dekoj). Elektu nur unu objekton por ĉiu rezulto.
 
 Vidu la **Ekipaĵan Liston** por rilataj kiraso, damaĝo kaj fendovaloroj. Pli malgrandaj aĵoj foje povas esti kunigitaj en unu fendeton.
 
@@ -304,7 +304,7 @@ Se vi ŝatus ion pli proksiman al tradiciaj klasoj, raportu al la listo de [**Op
 | 4 | Longigita | 9 | Kvadrato |
 | 5 | Pala | 10 | Alfundiĝinta |
 
-#### Parolado
+#### Parol maniero
 
 | | | | |
 | ------ | ------- | ---- | ---------- |
@@ -334,7 +334,7 @@ Se vi ŝatus ion pli proksiman al tradiciaj klasoj, raportu al la listo de [**Op
 | 4 | Disciplinita | 9 | Serena |
 | 5 | Gregema | 10 | Tolerema |
 
-#### Vice
+#### Malvirto
 
 | | | | |
 | ---- | ---------- | ---- | -------- |
