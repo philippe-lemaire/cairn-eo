@@ -4,7 +4,7 @@ title: SRD
 nav_order: 2
 ---
 
-# Referenca Dokumento de Cairn System (v.1.0)
+# Referenca Dokumento de la Cairn Sistemo (v.1.0)
 
 {: .no_toc }
 
@@ -31,7 +31,7 @@ Ludantoj agas kiel harditaj aventuristoj esplorantaj malluman kaj misteran Arbar
 
 ### Neŭtraleco
 
-La rolo de la Warden estas portreti la regulojn, situaciojn, NPCojn, kaj rakonton klare, agante kiel neŭtrala arbitracianto.
+La rolo de la Gardisto estas portreti la regulojn, situaciojn, NPCojn, kaj rakonton klare, agante kiel neŭtrala arbitracianto.
 
 ### Senklasa
 
