@@ -366,97 +366,97 @@ Se vi ŝatus ion pli proksiman al tradiciaj klasoj, raportu al la listo de [**Op
 
 <p></p>
 
-## Starting Gear (d20)
+## Komenca Ilaro (d20)
 
-#### Armor
+#### Kiraso
 
-|  |            |           |       |
+| | | | |
 | :---: | :--------: | :-------: | :---: |
-|  1-3  |    4-14    |   15-19   |  20   |
-| None  | Brigandine | Chainmail | Plate |
+| 1-3 | 4-14 | 15-19 | 20 |
+| Neniu | Brigandino | Ĉenpoŝto | Telero |
 
-#### Helmets & Shields
+#### Kaskoj & Ŝildoj
 
-|  |        |        |                 |
+| | | | |
 | :---------------: | :----: | :----: | :-------------: |
-|       1-13        | 14-16  | 17-19  |       20        |
-|       None        | Helmet | Shield | Helmet & Shield |
+| 1-13 | 14-16 | 17-19 | 20 |
+| Neniu | Kasko | Ŝildo | Kasko & Ŝildo |
 
-#### Weapons
+#### Armiloj
 
-|                |                  |                          |                                |
+| | | | |
 | :-------------------: | :--------------: | :----------------------: | :----------------------------: |
-|          1-5          |       6-14       |          15-19           |               20               |
-| Dagger, Cudgel, Staff | Sword, Mace, Axe | Bow, Crossbow, Sling | Halberd, War Hammer, Battleaxe |
+| 1-5 | 6-14 | 15-19 | 20 |
+| Ponardo, Kilo, Kunlaborantaro | Glavo, Masko, Hakilo | Pafarko, Arbalesto, Slingo | Halbardo, Militmartelo, Batalhakilo |
 
-#### Expeditionary Gear
+#### Ekspedicia Ilaro
 
-|      |                        |      |                |      |             |      |             |
+| | | | | | | | |
 | ---- | ---------------------- | ---- | -------------- | ---- | ----------- | ---- | ----------- |
-| 1    | Air Bladder            | 6    | Fire Oil       | 11   | Manacles    | 16   | Rope (25ft) |
-| 2    | Antitoxin              | 7    | Grappling Hook | 12   | Pick        | 17   | Spirit Ward |
-| 3    | Cart (+4 slots, bulky) | 8    | Large Sack     | 13   | Pole (10ft) | 18   | Spyglass    |
-| 4    | Chain (10ft)           | 9    | Large Trap     | 14   | Pulley      | 19   | Tinderbox   |
-| 5    | Dowsing Rod            | 10   | Lockpicks      | 15   | Repellent   | 20   | Wolfsbane   |
+| 1 | Aera Veziko | 6 | Fajra Oleo | 11 | Manakloj | 16 | Ŝnuro (25ft) |
+| 2 | Antitoksino | 7 | Grapplingo | 12 | Elektu | 17 | Spirita Kvartalo |
+| 3 | Ĉaro (+4 fendoj, dika) | 8 | Granda Sako | 13 | Poluso (10ft) | 18 | Spyglass |
+| 4 | Ĉeno (10ft) | 9 | Granda Kaptilo | 14 | Pulio | 19 | Tinderbox |
+| 5 | Radiesteziga Vergo | 10 | Ŝlosiloj | 15 | Forpuŝrimedo | 20 | Wolfsbane |
 
-#### Tools
+#### Iloj
 
-|      |          |      |                |      |            |      |         |
+| | | | | | | | |
 | ---- | -------- | ---- | -------------- | ---- | ---------- | ---- | ------- |
-| 1    | Bellows  | 6    | Cook Pots      | 11   | Grease     | 16   | Net     |
-| 2    | Bucket   | 7    | Crowbar        | 12   | Hammer     | 17   | Saw     |
-| 3    | Caltrops | 8    | Drill (Manual) | 13   | Hour Glass | 18   | Sealant |
-| 4    | Chalk    | 9    | Fishing Rod    | 14   | Metal File | 19   | Shovel  |
-| 5    | Chisel   | 10   | Glue           | 15   | Nails      | 20   | Tongs   |
+| 1 | Balgoj | 6 | Kuirpotoj | 11 | Graso | 16 | Reto |
+| 2 | Sitelo | 7 | Korvo | 12 | Martelo | 17 | Segilo |
+| 3 | Caltrops | 8 | Borilo (Manlibro) | 13 | Horhorloĝo | 18 | Sigelilo |
+| 4 | Kreto | 9 | Fiŝkaptilo | 14 | Metala Dosiero | 19 | Ŝovelilo |
+| 5 | Ĉizilo | 10 | Gluo | 15 | Najloj | 20 | Pinĉiloj |
 
-#### Trinkets
+#### Trinketoj
 
-|      |             |      |            |      |             |      |         |
+| | | | | | | | |
 | ---- | ----------- | ---- | ---------- | ---- | ----------- | ---- | ------- |
-| 1    | Bottle      | 6    | Horn       | 11   | Mirror      | 16   | Soap    |
-| 2    | Card Deck   | 7    | Incense    | 12   | Perfume     | 17   | Sponge  |
-| 3    | Dice Set    | 8    | Instrument | 13   | Quill & Ink | 18   | Tar Pot |
-| 4    | Face Paint  | 9    | Lens       | 14   | Salt Pack   | 19   | Twine   |
-| 5    | Fake Jewels | 10   | Marbles    | 15   | Small Bell  | 20   | Whistle |
+| 1 | Botelo | 6 | Korno | 11 | Spegulo | 16 | Sapo |
+| 2 | Kartferdeko | 7 | Incenso | 12 | Parfumo | 17 | Spongo |
+| 3 | Aro de ĵetkuboj | 8 | Instrumento | 13 | Plumo & Inko | 18 | Gudropoto |
+| 4 | Vizaĝa Farbo | 9 | Lenso | 14 | Sala Pako | 19 | Ŝnuro |
+| 5 | Falsaj Juveloj | 10 | Marmoroj | 15 | Malgranda Sonorilo | 20 | Fajfilo |
 
-#### Bonus Item (roll on table indicated)
+#### Bonusaĵo (rulo sur tablo indikite)
 
-|                  |                    |                 |           |
+| | | | |
 | :--------------: | :----------------: | :-------------: | :-------: |
-|       1-5        |        6-13        |      14-17      |   18-20   |
-| Tool or  Trinket | Expeditionary Gear | Armor or Weapon | Spellbook |
+| 1-5 | 6-13 | 14-17 | 18-20 |
+| Ilo aŭ Trinketo | Ekspedicia Ilaro | Kiraso aŭ Armilo | Sorĉlibro |
 
 <p></p>
 
-#### Spellbooks (d100)
+#### Sorĉlibroj (d100)
 
-|||||||||
-|---|-----------------|---|----------------|---|---------------|---|---------------|
-|1  |Adhere           |26 |Earthquake      |51 |Masquerade     |76 |Smoke Form     |
-|2  |Anchor           |27 |Elasticity      |52 |Miniaturize    |77 |Sniff          |
-|3  |Animate Object   |28 |Elemental Wall  |53 |Mirror Image   |78 |Snuff          |
-|4  |Anthropomorphize |29 |Filch           |54 |Mirrorwalk     |79 |Sort           |
-|5  |Arcane Eye       |30 |Flare           |55 |Multiarm       |80 |Spectacle      |
-|6  |Astral Prison    |31 |Fog Cloud       |56 |Night Sphere   |81 |Spellsaw       |
-|7  |Attract          |32 |Frenzy          |57 |Objectify      |82 |Spider Climb   |
-|8  |Auditory Illusion|33 |Gate            |58 |Ooze Form      |83 |Summon Cube    |
-|9  |Babble           |34 |Gravity Shift   |59 |Pacify         |84 |Swarm          |
-|10 |Bait Flower      |35 |Greed           |60 |Phobia         |85 |Telekinesis    |
-|11 |Beast Form       |36 |Haste           |61 |Pit            |86 |Telepathy      |
-|12 |Befuddle         |37 |Hatred          |62 |Primal Surge   |87 |Teleport       |
-|13 |Body Swap        |38 |Hear Whispers   |63 |Push/Pull      |88 |Target Lure    |
-|14 |Charm            |39 |Hover           |64 |Raise Dead     |89 |Thicket        |
-|15 |Command          |40 |Hypnotize       |65 |Raise Spirit   |90 |Summon Idol    |
-|16 |Comprehend       |41 |Icy Touch       |66 |Read Mind      |91 |Time Control   |
-|17 |Cone of Foam     |42 |Identify Owner  |67 |Repel          |92 |True Sight     |
-|18 |Control Plants   |43 |Illuminate      |68 |Scry           |93 |Upwell         |
-|19 |Control Weather  |44 |Invisible Tether|69 |Sculpt Elements|94 |Vision         |
-|20 |Cure Wounds      |45 |Knock           |70 |Sense          |95 |Visual Illusion|
-|21 |Deafen           |46 |Leap            |71 |Shield         |96 |Ward           |
-|22 |Detect Magic     |47 |Liquid Air      |72 |Shroud         |97 |Web            |
-|23 |Disassemble      |48 |Magic Dampener  |73 |Shuffle        |98 |Widget         |
-|24 |Disguise         |49 |Manse           |74 |Sleep          |99 |Wizard Mark    |
-|25 |Displace         |50 |Marble Craze    |75 |Slick          |100|X-Ray Vision   |
+|    |                   |    |                     |    |                   |     |                    |
+|----|-------------------|----|---------------------|----|-------------------|-----|--------------------|
+| 1  | Aliĝi             | 26 | Flaro               | 51 | Likva Aero        | 76  | Reto               |
+| 2  | Altiri            | 27 | Fluega Formo        | 52 | Litotuko          | 77  | Salto              |
+| 3  | Alvestiĝo         | 28 | Fobio               | 53 | Logi Floro        | 78  | Senton             |
+| 4  | Animi Objekton    | 29 | Formo de Fumo       | 54 | Lumigu            | 79  | Sildo              |
+| 5  | Ankro             | 30 | Forpuŝi             | 55 | Magia Reduktilo   | 80  | Skulpti Elementojn |
+| 6  | Antropomorfigi    | 31 | Foso                | 56 | Malamo            | 81  | Snuff              |
+| 7  | Aranea Grimpado   | 32 | Frapi               | 57 | Malmunti          | 82  | Snufi              |
+| 8  | Arkana Okulo      | 33 | Frenezo             | 58 | Marmora furoro    | 83  | Sorĉa segilo       |
+| 9  | Astra Malliberejo | 34 | Fuŝi                | 59 | Maskerado         | 84  | Sorĉisto Marko     |
+| 10 | Avideco           | 35 | Glacia Tuŝo         | 60 | Miksi             | 85  | Spegula Bildo      |
+| 11 | Aŭda Iluzio       | 36 | Glata               | 61 | Miniaturigi       | 86  | Spegule Marŝi      |
+| 12 | Aŭdu Flustrojn    | 37 | Gravoŝanĝo          | 62 | Multbrako         | 87  | Supre              |
+| 13 | Bablado           | 38 | Hasto               | 63 | Nebula Nubo       | 88  | Surdigi            |
+| 14 | Besta Formo       | 39 | Hipnotigi           | 64 | Nevidebla Kateno  | 89  | Svarmi             |
+| 15 | Celon Logili      | 40 | Identigi Posedanton | 65 | Nokta Sfero       | 90  | Ŝvebi              |
+| 16 | Ĉarmo             | 41 | Kanigu Vundojn      | 66 | Objektivi         | 91  | Telekinezo         |
+| 17 | Delokigo          | 42 | Komando             | 67 | Okulaĵo           | 92  | Telepatio          |
+| 18 | Densejo           | 43 | Kompreni            | 68 | Ordigi            | 93  | Teletransporto     |
+| 19 | Detekti Magion    | 44 | Konfuzi             | 69 | Pacigi            | 94  | Tempokontrolo      |
+| 20 | Domego            | 45 | Kontrolu Plantojn   | 70 | Pordego           | 95  | Tremo              |
+| 21 | Dormo             | 46 | Konuso de Ŝaŭmo     | 71 | Prima Eksplodo    | 96  | Vera Vido          |
+| 22 | Elasteco          | 47 | Korpo-interŝanĝo    | 72 | Protekto          | 97  | Vida Iluzio        |
+| 23 | Elementa Muro     | 48 | Legi Menson         | 73 | Puŝi/Tiri         | 98  | Vizio              |
+| 24 | Elvidi            | 49 | Levi Spiriton       | 74 | Radiografia Vizio | 99  | Voki Idolon        |
+| 25 | Fenestaĵo         | 50 | Levigi Mortintojn   | 75 | Regi Vetero       | 100 | Voki Kubon         |
 
 <p></p>
 
