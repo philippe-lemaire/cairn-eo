@@ -4,6 +4,9 @@ _site
 .ruby-version
 _temp
 
+# ignore temp_file folder
+temp_files/
+
 # Numerous always-ignore extensions
 *.diff
 *.err
