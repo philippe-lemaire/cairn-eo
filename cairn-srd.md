@@ -493,7 +493,7 @@ Se vi ŝatus ion pli proksiman al tradiciaj klasoj, raportu al la listo de [**La
 |Bedroll |5 |Lenso |10 |
 |Libro |50 |Slosililoj |25 |
 |Sitelo |5 |Manaloj |10 |
-|Kvarpinta Pikilo |10 |Metala Dosiero |5 |
+|Piedpikilo |10 |Metala Dosiero |5 |
 |Ĉaro (+4 fendoj, dika) |30 |Spegulo |5 |
 |Ĉeno (10ft) |10 |Mulo (+6 fendoj, malrapida)|30 |
 |Kreto |1 |Reto |10 |
