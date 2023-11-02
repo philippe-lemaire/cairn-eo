@@ -210,11 +210,11 @@ Ludanta karactero ne povas porti pli da eroj ol ilia inventaro permesas. Ĉaroj 
 - Torĉo (unu fendo)
 - 3d6 oraj pecoj
 
-Rulu unufoje sur ĉiu el la **Starting Gear**-tabloj por determini la kirason, armilojn, ilojn kaj ekipaĵojn de via ludanta karactero. Se indikite, rulu sur la [**Spellbooks**](#spellbooks-d100) tablon kun d100 (aŭ rulu 2d10, uzante unu ĵetkubon kiel la unuoj, kaj la alian kiel la dekoj). Elektu nur unu objekton por ĉiu rezulto.
+Rulu unufoje sur ĉiu el la **Starting Gear**-tabloj por determini la kirason, armilojn, ilojn kaj ekipaĵojn de via ludanta karactero. Se indikite, rulu sur la [**Sorĉlibroj**](#Sorĉlibroj-d100) tablon kun d100 (aŭ rulu 2d10, uzante unu ĵetkubon kiel la unuoj, kaj la alian kiel la dekoj). Elektu nur unu objekton por ĉiu rezulto.
 
 Vidu la **Ekipaĵan Liston** por rilataj kiraso, damaĝo kaj fendovaloroj. Pli malgrandaj aĵoj foje povas esti kunigitaj en unu fendeton.
 
-Se vi ŝatus ion pli proksiman al tradiciaj klasoj, raportu al la listo de [**Optional Gear Packages**](#optional-gear-packages).
+Se vi ŝatus ion pli proksiman al tradiciaj klasoj, raportu al la listo de [**Laŭvolaj Ilaj Pakoj **](#laŭvolaj-ilaj-pakoj ).
 
 <p></p>
 
@@ -652,7 +652,7 @@ Savo estas rulo de ĵetkubo por eviti malbonajn rezultojn de riskaj elektoj kaj 
 
 <details markdown="block">
   <summary>
-Expand For Example
+Vastigi por vidi ekzemplon
  </summary>
  _Bea renkontas grupon de tre armitaj Koboldoj starantaj gardisto antaŭ tunelirejo. Ŝia ludanto zorge konspiras kurson, rekonante, ke ŝia 13 LER faras ŝteliri preter la gardistoj la plej bona elekto. Ŝi ruliĝas d20, kaj rezultas 10 - sukceso!_
 
