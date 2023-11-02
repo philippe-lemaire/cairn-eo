@@ -31,7 +31,7 @@ Ludantoj agas kiel harditaj aventuristoj esplorantaj malluman kaj misteran Arbar
 
 ### Neŭtraleco
 
-La rolo de la Ludmastro estas portreti la regulojn, situaciojn, NPCojn, kaj rakonton klare, agante kiel neŭtrala arbitracianto.
+La rolo de la Ludmastro estas portreti la regulojn, situaciojn, NLudantaj Karacterojojn, kaj rakonton klare, agante kiel neŭtrala arbitracianto.
 
 ### Senklasa
 
@@ -84,8 +84,8 @@ Ludantoj fidas unu la alian por okupiĝi pri la komuna agordo, karakterceloj kaj
 
 - La ludmondo estas organika, modebla kaj hazarda. Ĝi intuicias kaj faras akrajn turnojn.
 - Uzu hazardajn tabelojn kaj generatorojn por disvolvi situaciojn, ne rakontojn aŭ intrigojn.
-- NPCoj memoras kion la ludanta karacteroj diras kaj faras, kaj kiel ili influas la mondon.
-- NPC-oj ne volas morti. Infuzi sian propran intereson kaj volon vivi en ĉiun personecon.
+- NLudantaj Karacterojoj memoras kion la ludanta karacteroj diras kaj faras, kaj kiel ili influas la mondon.
+- NLudantaj Karacteroj-oj ne volas morti. Infuzi sian propran intereson kaj volon vivi en ĉiun personecon.
 
 ### Rakonta Fokuso
 
@@ -143,7 +143,7 @@ Ludantoj fidas unu la alian por okupiĝi pri la komuna agordo, karakterceloj kaj
 
 ### Parolante
 
-- Traktu NPC-ojn kvazaŭ ili estus realaj homoj, kaj fidu vian scivolemon por sekure akiri informojn kaj solvi problemojn.
+- Traktu NLudantaj Karacteroj-ojn kvazaŭ ili estus realaj homoj, kaj fidu vian scivolemon por sekure akiri informojn kaj solvi problemojn.
 - Vi trovos, ke la plej multaj homoj estas interesaj kaj volos priparoli aferojn antaŭ ol perfortiĝi.
 
 ### Atentu
@@ -658,62 +658,62 @@ Vastigi por vidi ekzemplon
 
 </details>
 
-### Healing
+### Resanigo
 
-Resting for a few moments and having a drink of water restores lost HP but leaves the party exposed. Ability loss (see **Critical Damage**) can usually be restored with a week's rest facilitated by a healer or other appropriate source of expertise. Some of these services are free, while magical or more expedient means of recovery may come at a cost.
+Ripozi dum kelkaj momentoj kaj trinki akvon restarigas perditan HP sed lasas la partion senŝirma. Kapablo-perdo (vidu **Kritika Damaĝo**) kutime povas esti restarigita kun semajna ripozo faciligita de resaniganto aŭ alia taŭga fonto de kompetenteco. Iuj el ĉi tiuj servoj estas senpagaj, dum magiaj aŭ pli oportunaj rimedoj de reakiro povas havi koston.
 
-### Deprivation & Fatigue
+### Senigo kaj Laceco
 
-A PC **deprived** of a crucial need (such as food or rest) is unable to recover HP or ability scores. Anyone deprived for more than a day adds **Fatigue** to their inventory, one for each day. Each Fatigue occupies one slot and lasts until they are able to recuperate (such as a full night's rest in a safe spot). PCs can also gain Fatigue by **casting spells** or through events in the fiction.
+Karaktero **senigita** de grava bezono (kiel manĝaĵo aŭ ripozo) ne kapablas reakiri HP aŭ kapablecpoentarojn. Iu ajn senigita dum pli ol tago aldonas **Lacecon** al sia inventaro, unu por ĉiu tago. Ĉiu Laceco okupas unu fendeton kaj daŭras ĝis ili povas resaniĝi (kiel ekzemple plena nokta ripozo en sekura loko). Karakteroj ankaŭ povas akiri Laciĝon per **ĵetado de sorĉoj** aŭ per eventoj en la fikcio.
 
-### Armor
+### Kiraso
 
-Before calculating damage to HP, subtract the target's **Armor** value from the result of damage rolls. Shields and similar armor provide a bonus defense (e.g. +1 Armor), but only while the item is held or worn.
-No one can have more than 3 Armor.
-Shields, gauntlets, and helms may provide additional benefits according to their use.
+Antaŭ ol kalkuli damaĝon al HP, subtrahi la **Kiraso**-valoron de la celo de la rezulto de damaĝaj ruloj. Ŝildoj kaj simila kiraso disponigas kromdefendon (ekz. +1 Kiraso), sed nur dum la objekto estas tenita aŭ portita.
+Neniu povas havi pli ol 3 Kirason.
+Ŝildoj, protektgantoj kaj stiriloj povas provizi pliajn avantaĝojn laŭ ilia uzo.
 
-### Reactions
+### Reagoj
 
-When the PCs encounter an NPC whose reaction to the party is not obvious, the Ludmastro may roll 2d6 and consult the following table:
+Kiam la Ludantaj Karakteroj renkontas neludantaj karacteroj kies reago al la grupo ne estas evidenta, la Ludmastro povas ruliĝi 2d6 kaj konsulti la sekvan tabelon:
 
 | | | | | |
 | :-----: | :--: | :-----: | :--: | :--: |
-|    2    | 3-5  |   6-8   | 9-11 | 12      |
-| Hostile | Wary | Curious | Kind | Helpful |
+| 2 | 3-5 | 6-8 | 9-11 | 12 |
+| Malamika | Singarda | Scivolema | Afabla | Helpema |
 
-### Morale
+### Moralo
 
-Enemies must pass a VOL save to avoid fleeing when they take their first casualty and again when they lose half their number. Some groups may use their leader's VOL in place of their own. Lone foes must save when they're reduced to 0 HP. Morale does not affect PCs.
+Malamikoj devas pasi VOL-savon por eviti fuĝi kiam ili prenas sian unuan viktimon kaj denove kiam ili perdas duonon de sia nombro. Kelkaj grupoj povas uzi la VOL de sia gvidanto anstataŭe de sia propra. Solaj malamikoj devas ŝpari kiam ili estas reduktitaj al 0 HP. Moralo ne influas Ludantaj Karakteroj.
 
 ### Hirelings
 
-PCs can hire **hirelings** to aid them in their expeditions. To create a hireling, roll 3d6 for each ability score, then give them 1d6 HP and a simple weapon (d6), then roll on the [**Character Creation**](#character-creation) tables to further flesh them out. Hirelings cost between 1-3gp per day, or a share of whatever treasure the party obtains.
+Ludantaj Karakteroj povas dungi **dungitojn** por helpi ilin en siaj ekspedicioj. Por krei dungiton, rulu 3d6 por ĉiu kapablopoentaro, tiam donu al ili 1d6 HP kaj simplan armilon (d6), tiam rulu sur la [**Karaktero Kreado**](#karaktero-kreado) tabloj por plie karnizi ilin. Dungitoj kostas inter 1-3op tage, aŭ parton de kia ajn trezoro la partio akiras.
 
-### Wealth & Treasure
+### Riĉeco & Trezoro
 
-The most common coin is the gold piece (gp), which is equal to 10 silver pieces (sp) and 100 copper pieces (cp).
+La plej ofta monero estas la ora peco (op), kiu egalas al 10 arĝentaj pecoj (ap) kaj 100 kupraj pecoj (kp).
 
-Treasure is highly valuable, usually bulky, and rarely useful beyond its value. It can be a lure, taking PCs to exotic and even dangerous locations, and is often under the protection of intimidating foes.
+Trezoro estas tre valora, kutime dika, kaj malofte utila preter sia valoro. Ĝi povas esti logilo, portanta Ludantaj Karakteroj al ekzotikaj kaj eĉ danĝeraj lokoj, kaj ofte estas sub la protekto de timigado de malamikoj.
 
-Villages, strongholds, and ports of call barter and trade based on the local rarity and value of an item or commodity.
+Vilaĝoj, fortikejoj, kaj vizithavenoj interŝanĝo kaj komerco surbaze de la loka maloftaĵo kaj valoro de objekto aŭ krudvaro.
 
-## Magic
+## Magio
 
-**Spellbooks** contain a single spell and take up one slot. They cannot be transcribed or created; instead they are recovered from places like tombs, dungeons, and manors.
+**Sorĉlibroj** enhavas ununuran sorĉon kaj okupas unu fendeton. Ili ne povas esti transskribitaj aŭ kreitaj; anstataŭe ili estas reakiritaj de lokoj kiel tomboj, kelkarceroj, kaj grandbienoj.
 
-Spellbooks sometimes display unusual properties or limitations, such as producing a foul or unearthly smell when opened, possessing an innate intelligence, or being legible only when held in moonlight.
+Sorĉlibroj foje montras nekutimajn trajtojn aŭ limigojn, kiel ekzemple produkti malbonan aŭ neteran odoron kiam malfermite, posedante denaskan inteligentecon, aŭ estante legeblaj nur kiam tenite en lunlumo.
 
-Spellbooks will attract the attention of those who seek the arcane power within, and it is considered dangerous to display them openly.
+Sorĉlibroj altiros la atenton de tiuj, kiuj serĉas la arkanan potencon ene, kaj estas konsiderata danĝera montri ilin malkaŝe.
 
-**Scrolls** are similar to Spellbooks, however:
+**Pergamenoj** similas al Sorĉlibroj, tamen:
 
-- They do not take up an inventory slot.
-- They do not cause fatigue.
-- They disappear after one use.
+- Ili ne okupas inventan fendo.
+- Ili ne kaŭzas laciĝon.
+- Ili malaperas post unu uzo.
 
-### Casting Spells
+### Ĵetado de Sorĉoj
 
-Anyone can cast a spell by holding a Spellbook in both hands and reading its contents aloud. They must then add a Fatigue to inventory, occupying one slot. Given time and safety, PCs can _enhance_ a spell's impact (e.g., affecting multiple targets, increasing its power, etc.) without any additional cost. If the PC is deprived or in danger, the Ludmastro may require a PC to make a VOL save to avoid any ill-effects from casting the spell. Consequences of failure are on par with the intended effect, and may result in added Fatigue, the destruction of the Spellbook, injury, and even death.
+Iu ajn povas sorĉi tenante Sorĉlibron en ambaŭ manoj kaj laŭtlegante ĝian enhavon. Ili tiam devas aldoni Laciĝon al stokregistro, okupante unu fendeton. Konsiderante tempon kaj sekurecon, Ludantaj Karakteroj povas _plifortigi_ la efikon de sorĉo (ekz., tuŝi plurajn celojn, pliigi ĝian potencon, ktp.) sen iu kroma kosto. Se la Ludantaj Karacteroj estas senhavigita aŭ en danĝero, la Ludantaj Karacteroj povas postuli Ludantaj Karacteroj fari VOL-ŝparon por eviti iujn ajn malbonajn efikojn de gisado de la sorĉo. Konsekvencoj de malsukceso estas egale al la celita efiko, kaj povas rezultigi plian Lacecon, la detruon de la Sorĉlibro, vundon, kaj eĉ morton.
 
 ### Relics
 
@@ -725,7 +725,7 @@ Anyone can cast a spell by holding a Spellbook in both hands and reading its con
 
 **Staff of Silence** , 1 charge. This blackened rod temporarily disables all magic within 50ft. Recharge: bathe in the light of a full moon.
 
-**Leycap** , 1 use. Anyone ingesting this green-flecked mushroom loses a Fatigue, but is then required to make a VOL save to avoid its addictive properties. A fail leaves the PC deprived and unable to focus until they can eat another leycap, providing only a brief reprieve from the addiction.
+**Leycap** , 1 use. Anyone ingesting this green-flecked mushroom loses a Fatigue, but is then required to make a VOL save to avoid its addictive properties. A fail leaves the Ludantaj Karacteroj deprived and unable to focus until they can eat another leycap, providing only a brief reprieve from the addiction.
 
 ## Combat
 
@@ -737,11 +737,11 @@ The game typically plays without strict time accounting. In a fight or circumsta
 
 On their turn, a character may move up to 40ft and take up to one action. This may be casting a spell, attacking, making a second move, or some other reasonable action.
 
-Each round, the PCs declare what they are doing before dice are rolled. If a character attempts something risky, the Ludmastro calls for a save for appropriate players or NPCs.
+Each round, the Ludantaj Karakteroj declare what they are doing before dice are rolled. If a character attempts something risky, the Ludmastro calls for a save for appropriate players or NLudantaj Karakteroj.
 
 ### Turns
 
-The Ludmastro will telegraph the most likely actions taken by NPCs or monsters. At the start of combat, each PC must make a LER save to act before their opponents.
+The Ludmastro will telegraph the most likely actions taken by NLudantaj Karakteroj or monsters. At the start of combat, each Ludantaj Karacteroj must make a LER save to act before their opponents.
 
 <details markdown="block">
   <summary>
@@ -783,16 +783,16 @@ Attacks with the **blast** quality affect all targets in the noted area, rolling
 
 Damage that reduces a target's HP below zero decreases a target's FOR by the amount remaining. They must then make a FOR save to avoid **critical damage**. Additionally, some enemies will have special abilities or effects that are triggered when their target fails a critical damage save.
 
-Any PC that suffers critical damage cannot do anything but crawl weakly, grasping for life. If given aid and rest, they will stabilize. If left untreated, they die within the hour.
+Any Ludantaj Karacteroj that suffers critical damage cannot do anything but crawl weakly, grasping for life. If given aid and rest, they will stabilize. If left untreated, they die within the hour.
 
 ### Ability Score Loss
 
-If a PC's FOR is reduced to 0, they die. If their LER is reduced to 0, they are paralyzed. If their VOL is reduced to 0, they are delirious.
+If a Ludantaj Karacteroj's FOR is reduced to 0, they die. If their LER is reduced to 0, they are paralyzed. If their VOL is reduced to 0, they are delirious.
 Complete LER and VOL loss renders the character unable to act until they are restored through extended rest or by extraordinary means.
 
 ### Scars
 
-When damage to a PC reduces their HP to exactly 0, they are sometimes changed irrevocably. See the [**Scars**](/cairn-srd#scars-1) table for more.
+When damage to a Ludantaj Karacteroj reduces their HP to exactly 0, they are sometimes changed irrevocably. See the [**Scars**](/cairn-srd#scars-1) table for more.
 
 ### Unconsciousness & Death
 
@@ -811,7 +811,7 @@ Running away from a dire situation always requires a successful LER save, as wel
 
 ### Scars
 
-When an attack reduces a PC's HP to exactly 0, they are uniquely impacted. Look up the result on the table below based on the total damage taken:
+When an attack reduces a Ludantaj Karacteroj's HP to exactly 0, they are uniquely impacted. Look up the result on the table below based on the total damage taken:
 
 |      |                                                              |
 |------ |---|
@@ -873,13 +873,13 @@ When an attack reduces a PC's HP to exactly 0, they are uniquely impacted. Look 
 
 ### Creating Monsters
 
-Use the following template to model any more sophisticated Monster or NPC:
+Use the following template to model any more sophisticated Monster or NLudantaj Karacteroj:
 
 **Name**
 X HP, X Armor, X FOR, X LER, X VOL, Weapon (dX, special items, qualities)
 
 - Engaging descriptor of appearance or demeanor
-- Quirk, tactic, or peculiarity making this NPC unique
+- Quirk, tactic, or peculiarity making this NLudantaj Karacteroj unique
 - Special effect or critical damage consequence
 
 **General Principles**
@@ -887,7 +887,7 @@ Ability Scores: 3 is deficient, 6 is weak, 10 is average, 14 is noteworthy, and 
 
 - Give average creatures 3 HP, give hardy ones 6 HP, and serious threats get 10+ HP.
 - Use flavor and style to help them stand out. Players will remember a pig-faced humanoid looking for his missing sheep more easily than a generic goblin archer.
-- Use critical damage to lean into the threat or strangeness of any aggressive NPC.
+- Use critical damage to lean into the threat or strangeness of any aggressive NLudantaj Karacteroj.
 - Remember that HP is **Hit Protection** , not Hit Points. It's a measure of resilience, luck, and gumption - not health.
 
 **Converting from OSR Games**
@@ -1020,7 +1020,7 @@ Damage die are roughly the same, though armed attacks do at least 1d6 damage.
 # Rules Summary
 
 **ACTIONS**
-On their turn, a character may move up to 40ft and take up to one action. Actions may include casting a spell, attacking, making a second move, or other reasonable activities. Actions, attacks, and movements take place simultaneously. Whenever turn order is uncertain, the PCs should make a LER save to see if they go before their enemies.
+On their turn, a character may move up to 40ft and take up to one action. Actions may include casting a spell, attacking, making a second move, or other reasonable activities. Actions, attacks, and movements take place simultaneously. Whenever turn order is uncertain, the Ludantaj Karakteroj should make a LER save to see if they go before their enemies.
 
 **Retreating** from a dangerous situation always requires a successful LER save, as well as a safe destination to run to.
 
@@ -1035,23 +1035,23 @@ On their turn, a character may move up to 40ft and take up to one action. Action
 - 1 is always a success, 20 is always a failure.
 
 **HIT PROTECTION**
-**HP** indicates a PC's ability to avoid getting hurt. It is lost during combat & recovered after a few moment's rest.
+**HP** indicates a Ludantaj Karacteroj's ability to avoid getting hurt. It is lost during combat & recovered after a few moment's rest.
 
 **INVENTORY**
-PCs have 10 inventory slots: four on their body and six in their backpack (which acts as a sleeping bag if emptied). Most items take up a one slot, but smaller items can be bundled. **Bulky** items take up two slots and are awkward or difficult to carry.
+Ludantaj Karakteroj have 10 inventory slots: four on their body and six in their backpack (which acts as a sleeping bag if emptied). Most items take up a one slot, but smaller items can be bundled. **Bulky** items take up two slots and are awkward or difficult to carry.
 
-Filling all ten item slots reduces a PC to 0 HP. PCs cannot carry more than their inventory allows, though carts & horses may provide an increase in slots.
+Filling all ten item slots reduces a Ludantaj Karacteroj to 0 HP. Ludantaj Karakteroj cannot carry more than their inventory allows, though carts & horses may provide an increase in slots.
 
 **DEPRIVATION**
-**Deprived** PCs cannot recover HP. If deprived for more than a day,they add a **Fatigue** to inventory. Fatigue occupies one slot and lasts until they can recover in safety. This effect is cumulative.
+**Deprived** Ludantaj Karakteroj cannot recover HP. If deprived for more than a day,they add a **Fatigue** to inventory. Fatigue occupies one slot and lasts until they can recover in safety. This effect is cumulative.
 
 **HEALING**
 A moment's rest and a swig of water will restore lost HP, but may leave the party vulnerable. **Ability** loss requires a week's rest and the aid of a skilled healer.
 
 **SPELLBOOKS**
-Spellbooks contain a single spell and take up one item slot. Anyone can cast a spell by holding a Spellbook in both hands and reading its contents aloud. Casting a spell adds **Fatigue** to the PC's inventory.
+Spellbooks contain a single spell and take up one item slot. Anyone can cast a spell by holding a Spellbook in both hands and reading its contents aloud. Casting a spell adds **Fatigue** to the Ludantaj Karacteroj's inventory.
 
-Given time and safety, PCs can enhance a spell without any additional cost. If they are deprived or in danger, a VOL save may be required to avoid terrible consequences.
+Given time and safety, Ludantaj Karakteroj can enhance a spell without any additional cost. If they are deprived or in danger, a VOL save may be required to avoid terrible consequences.
 
 **COMBAT**
 The attacker rolls their weapon die and subtracts the target's Armor, then deals the remaining total to their opponent's HP.
@@ -1065,7 +1065,7 @@ No one can have more than 3 Armor.
 If an attack is **impaired** , the damage die is reduced to 1d4, regardless of weapon. If the attack is **enhanced**, the attacker rolls 1d12. Attacks with the **blast** quality affect all area targets, rolling separately for each.
 
 **DAMAGE**
-If an attack reduces a PC’s HP exactly to 0, refer to the [**Scars**](/cairn-srd#scars-1) table.
+If an attack reduces a Ludantaj Karacteroj’s HP exactly to 0, refer to the [**Scars**](/cairn-srd#scars-1) table.
 
 Damage that reduces a target's HP **below** 0 decreases their FOR by the remainder. They must then make a FOR save to avoid **critical damage.**  Failure takes them out of combat, dying if left untreated.
 
