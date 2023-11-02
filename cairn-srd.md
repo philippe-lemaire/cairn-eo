@@ -674,7 +674,7 @@ Shields, gauntlets, and helms may provide additional benefits according to their
 
 ### Reactions
 
-When the PCs encounter an NPC whose reaction to the party is not obvious, the Warden may roll 2d6 and consult the following table:
+When the PCs encounter an NPC whose reaction to the party is not obvious, the Ludmastro may roll 2d6 and consult the following table:
 
 | | | | | |
 | :-----: | :--: | :-----: | :--: | :--: |
@@ -713,7 +713,7 @@ Spellbooks will attract the attention of those who seek the arcane power within,
 
 ### Casting Spells
 
-Anyone can cast a spell by holding a Spellbook in both hands and reading its contents aloud. They must then add a Fatigue to inventory, occupying one slot. Given time and safety, PCs can _enhance_ a spell's impact (e.g., affecting multiple targets, increasing its power, etc.) without any additional cost. If the PC is deprived or in danger, the Warden may require a PC to make a VOL save to avoid any ill-effects from casting the spell. Consequences of failure are on par with the intended effect, and may result in added Fatigue, the destruction of the Spellbook, injury, and even death.
+Anyone can cast a spell by holding a Spellbook in both hands and reading its contents aloud. They must then add a Fatigue to inventory, occupying one slot. Given time and safety, PCs can _enhance_ a spell's impact (e.g., affecting multiple targets, increasing its power, etc.) without any additional cost. If the PC is deprived or in danger, the Ludmastro may require a PC to make a VOL save to avoid any ill-effects from casting the spell. Consequences of failure are on par with the intended effect, and may result in added Fatigue, the destruction of the Spellbook, injury, and even death.
 
 ### Relics
 
@@ -737,11 +737,11 @@ The game typically plays without strict time accounting. In a fight or circumsta
 
 On their turn, a character may move up to 40ft and take up to one action. This may be casting a spell, attacking, making a second move, or some other reasonable action.
 
-Each round, the PCs declare what they are doing before dice are rolled. If a character attempts something risky, the Warden calls for a save for appropriate players or NPCs.
+Each round, the PCs declare what they are doing before dice are rolled. If a character attempts something risky, the Ludmastro calls for a save for appropriate players or NPCs.
 
 ### Turns
 
-The Warden will telegraph the most likely actions taken by NPCs or monsters. At the start of combat, each PC must make a LER save to act before their opponents.
+The Ludmastro will telegraph the most likely actions taken by NPCs or monsters. At the start of combat, each PC must make a LER save to act before their opponents.
 
 <details markdown="block">
   <summary>
@@ -758,7 +758,7 @@ The attacker rolls their weapon die and subtracts the target's armor, then deals
   <summary>
 Expand For Example
  </summary>
- _The Wood Troll roars, swinging its club at Bea, who has 5 HP. The club does 1d10 damage and the Warden rolls a 4. They subtract 1 to account for Bea's  leather armor, leaving Bea with 2 HP remaining_.
+ _The Wood Troll roars, swinging its club at Bea, who has 5 HP. The club does 1d10 damage and the Ludmastro rolls a 4. They subtract 1 to account for Bea's  leather armor, leaving Bea with 2 HP remaining_.
 </details>
 
 ### Multiple Attackers
@@ -824,7 +824,7 @@ When an attack reduces a PC's HP to exactly 0, they are uniquely impacted. Look 
 | 7    | Hamstrung: You can barely move until you get serious help and rest. After recovery, roll 3d6. If the total is higher than your max LER, take the new result. |
 | 8    | Deafened: You cannot hear anything until you find extraordinary aid. Regardless, make a VOL save. If you pass, increase your max VOL by 1d4. |
 | 9    | Re-brained: Some hidden part of your psyche is knocked loose. Roll 3d6. If the total is higher than your max VOL, take the new result. |
-| 10   | Sundered: An appendage is torn off, crippled or useless. The Warden will tell you which. Then, make a VOL save. If you pass, increase your max VOL by 1d6. |
+| 10   | Sundered: An appendage is torn off, crippled or useless. The Ludmastro will tell you which. Then, make a VOL save. If you pass, increase your max VOL by 1d6. |
 | 11   | Mortal Wound: You are deprived and out of action. You die in one hour unless healed. Upon recovery, roll 2d6. Take the new result as your max HP. |
 | 12   | Doomed: Death seemed ever so close, but somehow you survived. If your next save against critical damage is a fail, you die horribly. If you pass, roll 3d6. If the total is higher than your max HP, take the new result. |
 
