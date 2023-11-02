@@ -178,13 +178,13 @@ Fine, rulu por ilia **aĝo** (2d20+10).
 #### Kapablaj Poentoj
 
 Ludantaj karakteroj (ludantaj karacteroj) havas nur tri atributojn:
-**Forto (STR)**, **Lerteco (DEX)**, kaj **Volforto (WIL)**. Kreante ludantan karacteron, la ludanto devas ruliĝi 3d6 por ĉiu el la kapablopoentaro de sia karaktero, en ordo. Ili tiam povas interŝanĝi iujn ajn du el la rezultoj.
+**Forto (FOR)**, **Lerteco (LER)**, kaj **Volforto (VOL)**. Kreante ludantan karacteron, la ludanto devas ruliĝi 3d6 por ĉiu el la kapablopoentaro de sia karaktero, en ordo. Ili tiam povas interŝanĝi iujn ajn du el la rezultoj.
 
 <details markdown="block">
   <summary>
 Vastigi por vidi ekzemplon
  </summary>
-Ines ruliĝas por la **STR** de sia karaktero, rezultigante **2**, **4** kaj **6**, entute **12**. La sekvaj du kapablo-ruloj rezultigas **9** por **DEX** kaj **13** por **WIL**. Ŝi decidas interŝanĝi la **12** kaj la **9**, por karaktero kun **9 STR**, **12 DEX** kaj **13** **WIL**.
+Ines ruliĝas por la **FOR** de sia karaktero, rezultigante **2**, **4** kaj **6**, entute **12**. La sekvaj du kapablo-ruloj rezultigas **9** por **LER** kaj **13** por **VOL**. Ŝi decidas interŝanĝi la **12** kaj la **9**, por karaktero kun **9 FOR**, **12 LER** kaj **13** **VOL**.
 
 </details>
 
@@ -598,63 +598,63 @@ Se vi ŝatus ion pli proksiman al tradiciaj klasoj, raportu al la listo de [**Op
 | Manakloj |
 | Bona Ŝnuro |
 
-#### Magic User
+#### Magia Uzanto
 
 ||
 |-----------------------------------------|
-|Fizzled Staff (d8, bulky)                |
-|Dagger (d6)                              |
-|Spellbook (random spell)                 |
-|Spellbook (random spell)                 |
-|Ragged Clothing (hidden pockets)         |
-|Leycap (x2, see Relics)                  |
+| Noda Bastono (d8, dika) |
+| Ponardo (d6) |
+| Sorĉlibro (hazarda sorĉo) |
+| Sorĉlibro (hazarda sorĉo) |
+| Ĉifona Vestaĵo (kaŝitaj poŝoj) |
+| Lejkapo (x2, vidu Relikvoj) |
 
-#### Thief
-
-||
-|-----------------------------------------|
-|Two daggers (d6+d6)                      |
-|Hooded Jerkin (1 Armor)                  |
-|Lockpicks                                |
-|Caltrops                                 |
-|Grappling Hook                           |
-|Metal File                               |
-
-#### Ranger
+#### Ŝtelisto
 
 ||
 |-----------------------------------------|
-|Longbow (d8, bulky)             |
-|Hatchet (d6)                    |
-|Padded Leathers (1  Armor)      |
-|Large Trap                      |
-|Bloodhound &#124; 2 HP, 12  DEX, bite (d6) |
-|Thundering Horn                 |
+|Du ponardoj (d6+d6) |
+|Kapuĉita Ĵerko (1 Kiraso) |
+|Slosililoj |
+|Kalpoj |
+|Barĉhoko |
+|Metala Dosiero |
+
+#### Gardisto
+
+||
+|-----------------------------------------|
+| Longarko (d8, dika) |
+| Hakilo (d6) |
+| Remburitaj Ledoj (1 Kiraso) |
+| Granda Kaptilo |
+| Sangohundo &#124; 2 HP, 12 LER, mordo (d6) |
+| Tondra Korno |
 
 [back to index](#index)
 <p></p>
 
-## Rules
+## Reguloj
 
-### Abilities
+### Kapabloj
 
-Each of the three **abilities** are used in different circumstances (see **saves**, below).
+Ĉiu el la tri **kapabloj** estas uzata en malsamaj cirkonstancoj (vidu **ŝparojn**, sube).
 
-**Strength (STR)**: Used for saves requiring physical power, like lifting gates, bending bars, resisting poison, etc.
+**Forto (FOR)**: Uzita por ŝparadoj postulantaj fizikan potencon, kiel levi pordegojn, fleksi stangojn, rezisti venenon ktp.
 
-**Dexterity (DEX)**: Used for saves requiring poise, speed, and reflexes like dodging, climbing, sneaking, balancing, etc.
+**Lerteco (LER)**: Uzita por ŝparadoj postulantaj trankvilon, rapidecon kaj refleksojn kiel eviti, grimpi, ŝteliri, ekvilibrigi ktp.
 
-**Willpower (WIL)**: Used for saves to persuade, deceive, interrogate, intimidate, charm, provoke, manipulate spells, etc.
+**Volforto (VOL)**: Uzita por ŝparadoj por persvadi, trompi, pridemandi, timigi, ĉarmi, provoki, manipuli sorĉojn ktp.
 
-### Saves
+### Savoj
 
-A save is a roll to avoid bad outcomes from risky choices and circumstances. PCs roll a d20 for an appropriate ability score. If they roll equal to or under that ability score, they pass. Otherwise, they fail. A 1 is always a success, and a 20 is always a failure.
+Savo estas rulo de ĵetkubo por eviti malbonajn rezultojn de riskaj elektoj kaj cirkonstancoj. Ludantoj ruliĝas d20 por taŭga kapablopoentaro. Se ili ruliĝas egale al aŭ sub tiu kapablopoentaro, ili pasas. Alie, ili malsukcesas. Ĵetkuba rezulto montranta 1 ĉiam estas sukceso, kaj 20 ĉiam estas fiasko.
 
 <details markdown="block">
   <summary>
 Expand For Example
  </summary>
- _Bea encounters a group of heavily-armed Goblins standing guard before a tunnel entrance. Her player carefully plots a course, recognizing that her 13 DEX makes sneaking past the guards the best option. She rolls a d20, and resulting in a 10 – a success!_
+ _Bea renkontas grupon de tre armitaj Koboldoj starantaj gardisto antaŭ tunelirejo. Ŝia ludanto zorge konspiras kurson, rekonante, ke ŝia 13 LER faras ŝteliri preter la gardistoj la plej bona elekto. Ŝi ruliĝas d20, kaj rezultas 10 - sukceso!_
 
 </details>
 
@@ -683,7 +683,7 @@ When the PCs encounter an NPC whose reaction to the party is not obvious, the Wa
 
 ### Morale
 
-Enemies must pass a WIL save to avoid fleeing when they take their first casualty and again when they lose half their number. Some groups may use their leader's WIL in place of their own. Lone foes must save when they're reduced to 0 HP. Morale does not affect PCs.
+Enemies must pass a VOL save to avoid fleeing when they take their first casualty and again when they lose half their number. Some groups may use their leader's VOL in place of their own. Lone foes must save when they're reduced to 0 HP. Morale does not affect PCs.
 
 ### Hirelings
 
@@ -713,7 +713,7 @@ Spellbooks will attract the attention of those who seek the arcane power within,
 
 ### Casting Spells
 
-Anyone can cast a spell by holding a Spellbook in both hands and reading its contents aloud. They must then add a Fatigue to inventory, occupying one slot. Given time and safety, PCs can _enhance_ a spell's impact (e.g., affecting multiple targets, increasing its power, etc.) without any additional cost. If the PC is deprived or in danger, the Warden may require a PC to make a WIL save to avoid any ill-effects from casting the spell. Consequences of failure are on par with the intended effect, and may result in added Fatigue, the destruction of the Spellbook, injury, and even death.
+Anyone can cast a spell by holding a Spellbook in both hands and reading its contents aloud. They must then add a Fatigue to inventory, occupying one slot. Given time and safety, PCs can _enhance_ a spell's impact (e.g., affecting multiple targets, increasing its power, etc.) without any additional cost. If the PC is deprived or in danger, the Warden may require a PC to make a VOL save to avoid any ill-effects from casting the spell. Consequences of failure are on par with the intended effect, and may result in added Fatigue, the destruction of the Spellbook, injury, and even death.
 
 ### Relics
 
@@ -725,7 +725,7 @@ Anyone can cast a spell by holding a Spellbook in both hands and reading its con
 
 **Staff of Silence** , 1 charge. This blackened rod temporarily disables all magic within 50ft. Recharge: bathe in the light of a full moon.
 
-**Leycap** , 1 use. Anyone ingesting this green-flecked mushroom loses a Fatigue, but is then required to make a WIL save to avoid its addictive properties. A fail leaves the PC deprived and unable to focus until they can eat another leycap, providing only a brief reprieve from the addiction.
+**Leycap** , 1 use. Anyone ingesting this green-flecked mushroom loses a Fatigue, but is then required to make a VOL save to avoid its addictive properties. A fail leaves the PC deprived and unable to focus until they can eat another leycap, providing only a brief reprieve from the addiction.
 
 ## Combat
 
@@ -741,13 +741,13 @@ Each round, the PCs declare what they are doing before dice are rolled. If a cha
 
 ### Turns
 
-The Warden will telegraph the most likely actions taken by NPCs or monsters. At the start of combat, each PC must make a DEX save to act before their opponents.
+The Warden will telegraph the most likely actions taken by NPCs or monsters. At the start of combat, each PC must make a LER save to act before their opponents.
 
 <details markdown="block">
   <summary>
 Expand For Example
  </summary>
- _Bea has accidentally stumbled onto the stomping grounds of a massive Wood Troll. In order to make a move before the Troll, she makes a DEX save. She fails, and the Troll gets to attack first._
+ _Bea has accidentally stumbled onto the stomping grounds of a massive Wood Troll. In order to make a move before the Troll, she makes a LER save. She fails, and the Troll gets to attack first._
 </details>
 
 ### Attacking & Damage
@@ -781,14 +781,14 @@ Attacks with the **blast** quality affect all targets in the noted area, rolling
 
 ### Critical Damage
 
-Damage that reduces a target's HP below zero decreases a target's STR by the amount remaining. They must then make a STR save to avoid **critical damage**. Additionally, some enemies will have special abilities or effects that are triggered when their target fails a critical damage save.
+Damage that reduces a target's HP below zero decreases a target's FOR by the amount remaining. They must then make a FOR save to avoid **critical damage**. Additionally, some enemies will have special abilities or effects that are triggered when their target fails a critical damage save.
 
 Any PC that suffers critical damage cannot do anything but crawl weakly, grasping for life. If given aid and rest, they will stabilize. If left untreated, they die within the hour.
 
 ### Ability Score Loss
 
-If a PC's STR is reduced to 0, they die. If their DEX is reduced to 0, they are paralyzed. If their WIL is reduced to 0, they are delirious.
-Complete DEX and WIL loss renders the character unable to act until they are restored through extended rest or by extraordinary means.
+If a PC's FOR is reduced to 0, they die. If their LER is reduced to 0, they are paralyzed. If their VOL is reduced to 0, they are delirious.
+Complete LER and VOL loss renders the character unable to act until they are restored through extended rest or by extraordinary means.
 
 ### Scars
 
@@ -800,14 +800,14 @@ When a character dies, the player is free to create a new character or take cont
 
 ### Detachments
 
-Large groups of similar combatants fighting together are treated as a single **detachment**. When a detachment takes critical damage, it is routed or significantly weakened. When it reaches 0 STR, it is destroyed.
+Large groups of similar combatants fighting together are treated as a single **detachment**. When a detachment takes critical damage, it is routed or significantly weakened. When it reaches 0 FOR, it is destroyed.
 
 Attacks against detachments by individuals are **impaired** (excluding blast damage).
 Attacks against individuals by detachments are **enhanced** and deal blast damage.
 
 ### Retreat
 
-Running away from a dire situation always requires a successful DEX save, as well as a safe destination to run to.
+Running away from a dire situation always requires a successful LER save, as well as a safe destination to run to.
 
 ### Scars
 
@@ -820,11 +820,11 @@ When an attack reduces a PC's HP to exactly 0, they are uniquely impacted. Look 
 | 3    | Walloped: You’re sent flying and land flat on your face, winded. You are deprived until you rest for a few hours. Then, roll 1d6. Add that amount to your max HP. |
 | 4    | Broken Limb: Roll 1d6 &#124; 1-2: Leg, 3-4: Arm, 5: Rib, 6: Skull. Once mended, roll 2d6. If the total is higher than your max HP, take the new result. |
 | 5    | Diseased: You’re afflicted with a gross, uncomfortable infection. When you get over it, roll 2d6. If the total is higher than your max HP, take the new result. |
-| 6    | Reorienting Head Wound: Roll 1d6 &#124; 1-2: STR, 3-4: DEX, 5-6: WIL. Roll 3d6. If the total is higher than your current ability score, take the new result. |
-| 7    | Hamstrung: You can barely move until you get serious help and rest. After recovery, roll 3d6. If the total is higher than your max DEX, take the new result. |
-| 8    | Deafened: You cannot hear anything until you find extraordinary aid. Regardless, make a WIL save. If you pass, increase your max WIL by 1d4. |
-| 9    | Re-brained: Some hidden part of your psyche is knocked loose. Roll 3d6. If the total is higher than your max WIL, take the new result. |
-| 10   | Sundered: An appendage is torn off, crippled or useless. The Warden will tell you which. Then, make a WIL save. If you pass, increase your max WIL by 1d6. |
+| 6    | Reorienting Head Wound: Roll 1d6 &#124; 1-2: FOR, 3-4: LER, 5-6: VOL. Roll 3d6. If the total is higher than your current ability score, take the new result. |
+| 7    | Hamstrung: You can barely move until you get serious help and rest. After recovery, roll 3d6. If the total is higher than your max LER, take the new result. |
+| 8    | Deafened: You cannot hear anything until you find extraordinary aid. Regardless, make a VOL save. If you pass, increase your max VOL by 1d4. |
+| 9    | Re-brained: Some hidden part of your psyche is knocked loose. Roll 3d6. If the total is higher than your max VOL, take the new result. |
+| 10   | Sundered: An appendage is torn off, crippled or useless. The Warden will tell you which. Then, make a VOL save. If you pass, increase your max VOL by 1d6. |
 | 11   | Mortal Wound: You are deprived and out of action. You die in one hour unless healed. Upon recovery, roll 2d6. Take the new result as your max HP. |
 | 12   | Doomed: Death seemed ever so close, but somehow you survived. If your next save against critical damage is a fail, you die horribly. If you pass, roll 3d6. If the total is higher than your max HP, take the new result. |
 
@@ -834,38 +834,38 @@ When an attack reduces a PC's HP to exactly 0, they are uniquely impacted. Look 
 ## Bestiary
 
 **Root Goblin**
-4 HP, 8 STR, 14 DEX, 8 WIL, spear (d6)
+4 HP, 8 FOR, 14 LER, 8 VOL, spear (d6)
 
 - Avoid combat unless they have the advantage (such as greater numbers).
 - Guard their stolen goods to the death.
 - Prize Spellbooks; willing to trade.
 
 **Hooded Men**
-12 HP, 9 STR, 12 DEX, 14 WIL, leystaff (d8), a Spellbook (Choose one: _Charm, Hypnotize, Push/Pull, Shield_)
+12 HP, 9 FOR, 12 LER, 14 VOL, leystaff (d8), a Spellbook (Choose one: _Charm, Hypnotize, Push/Pull, Shield_)
 
 - The Watchers of the Wood; a cult that derive their power from leylines, rune stones, and the like.
-- Critical damage: leech a part of the victim's soul (1d4 WIL damage).
+- Critical damage: leech a part of the victim's soul (1d4 VOL damage).
 
 **Cobblehounds**
-12 HP, 2 Armor, 14 STR, 1 DEX, 8 WIL, bite (d10)
+12 HP, 2 Armor, 14 FOR, 1 LER, 8 VOL, bite (d10)
 
 - Immobile constructs typically used as guardians to great tombs or artifacts.
 - Unaffected by mundane persuasion techniques - but do love a good bone.
 
 **Wood Troll**
-12 HP, 15 STR, 12 DEX, 7 WIL, claws and bite (d8+d8 blast)
+12 HP, 15 FOR, 12 LER, 7 VOL, claws and bite (d8+d8 blast)
 
 - As an action, can recover lost HP.
 - Critical damage: moss and twigs begin growing out of target's wounds.
 
 **Frost Elf**
-14 HP, 1 Armor, 8 STR, 13 DEX, 14 WIL, icicle dagger (d6), a Spellbook (Choose one: _Sleep, Teleport, Detect Magic)_
+14 HP, 1 Armor, 8 FOR, 13 LER, 14 VOL, icicle dagger (d6), a Spellbook (Choose one: _Sleep, Teleport, Detect Magic)_
 
 - Beautiful, amoral, and long-lived.
 - Resistant to most forms of magic.
 
 **Boggart**
-3 HP, 4 STR, 17 DEX, 13 WIL
+3 HP, 4 FOR, 17 LER, 13 VOL
 
 - A wild, hairy trickster that takes pleasure in being a minor nuisance.
 - Prizes relics and shiny trinkets above all else but unwilling to trade for coin.
@@ -876,7 +876,7 @@ When an attack reduces a PC's HP to exactly 0, they are uniquely impacted. Look 
 Use the following template to model any more sophisticated Monster or NPC:
 
 **Name**
-X HP, X Armor, X STR, X DEX, X WIL, Weapon (dX, special items, qualities)
+X HP, X Armor, X FOR, X LER, X VOL, Weapon (dX, special items, qualities)
 
 - Engaging descriptor of appearance or demeanor
 - Quirk, tactic, or peculiarity making this NPC unique
@@ -900,9 +900,9 @@ Some pointers:
 
 - Is it good at avoiding a hit? Give it HP.
 - Does it soak up damage? Give it Armor.
-- Is it strong? Give it a high **STR**.
-- Is it nimble? Give it high **DEX**.
-- Is it charismatic? Give it high **WIL**.
+- Is it strong? Give it a high **FOR**.
+- Is it nimble? Give it high **LER**.
+- Is it charismatic? Give it high **VOL**.
 
 Damage die are roughly the same, though armed attacks do at least 1d6 damage.
 
@@ -932,7 +932,7 @@ Damage die are roughly the same, though armed attacks do at least 1d6 damage.
 | 17   | [Cone of Foam](#cone-of-foam)           | Dense foam sprays from your hand, coating the target.        |
 | 18   | [Control Plants](#control-plants)       | Nearby plants and trees obey you and gain the ability to move at a slow pace. |
 | 19   | [Control Weather](#control-weather)     | You may alter the type of weather at will, but you do not otherwise control it. |
-| 20   | [Cure Wounds](#cure-wounds)             | Restore 1d4 STR per day to a creature you can touch.         |
+| 20   | [Cure Wounds](#cure-wounds)             | Restore 1d4 FOR per day to a creature you can touch.         |
 | 21   | [Deafen](#deafen)                       | All nearby creatures are deafened.                           |
 | 22   | [Detect Magic](#detect-magic)           | You can see or hear nearby magical auras.                    |
 | 23   | [Disassemble](#disassemble)             | Any of your body parts may be detached and reattached at will, without causing pain or damage. You can still control them. |
@@ -1020,14 +1020,14 @@ Damage die are roughly the same, though armed attacks do at least 1d6 damage.
 # Rules Summary
 
 **ACTIONS**
-On their turn, a character may move up to 40ft and take up to one action. Actions may include casting a spell, attacking, making a second move, or other reasonable activities. Actions, attacks, and movements take place simultaneously. Whenever turn order is uncertain, the PCs should make a DEX save to see if they go before their enemies.
+On their turn, a character may move up to 40ft and take up to one action. Actions may include casting a spell, attacking, making a second move, or other reasonable activities. Actions, attacks, and movements take place simultaneously. Whenever turn order is uncertain, the PCs should make a LER save to see if they go before their enemies.
 
-**Retreating** from a dangerous situation always requires a successful DEX save, as well as a safe destination to run to.
+**Retreating** from a dangerous situation always requires a successful LER save, as well as a safe destination to run to.
 
 **ABILITIES**
-**STR:** Brawn, prowess & resistance.
-**DEX:** Dodging, sneaking & reflexes.
-**WIL:**  Persuasion, intimidation & magic.
+**FOR:** Brawn, prowess & resistance.
+**LER:** Dodging, sneaking & reflexes.
+**VOL:**  Persuasion, intimidation & magic.
 
 **SAVES**
 
@@ -1051,7 +1051,7 @@ A moment's rest and a swig of water will restore lost HP, but may leave the part
 **SPELLBOOKS**
 Spellbooks contain a single spell and take up one item slot. Anyone can cast a spell by holding a Spellbook in both hands and reading its contents aloud. Casting a spell adds **Fatigue** to the PC's inventory.
 
-Given time and safety, PCs can enhance a spell without any additional cost. If they are deprived or in danger, a WIL save may be required to avoid terrible consequences.
+Given time and safety, PCs can enhance a spell without any additional cost. If they are deprived or in danger, a VOL save may be required to avoid terrible consequences.
 
 **COMBAT**
 The attacker rolls their weapon die and subtracts the target's Armor, then deals the remaining total to their opponent's HP.
@@ -1067,6 +1067,6 @@ If an attack is **impaired** , the damage die is reduced to 1d4, regardless of w
 **DAMAGE**
 If an attack reduces a PC’s HP exactly to 0, refer to the [**Scars**](/cairn-srd#scars-1) table.
 
-Damage that reduces a target's HP **below** 0 decreases their STR by the remainder. They must then make a STR save to avoid **critical damage.**  Failure takes them out of combat, dying if left untreated.
+Damage that reduces a target's HP **below** 0 decreases their FOR by the remainder. They must then make a FOR save to avoid **critical damage.**  Failure takes them out of combat, dying if left untreated.
 
-Having STR 0 means **death;** having DEX 0 is paralysis; having WIL 0 is delirium.
+Having FOR 0 means **death;** having LER 0 is paralysis; having VOL 0 is delirium.
