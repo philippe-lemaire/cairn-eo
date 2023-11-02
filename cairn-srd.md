@@ -13,7 +13,7 @@ nav_order: 2
 **Cairn** estas licencita laŭ [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 Legu la [repo](https://github.com/yochaigal/cairn) aŭ elŝutu la ludon en aliaj [formatoj](https://drive.google.com/drive/u/0/folders/1dNGoSErZRApJr6R7mI3BAOhfkr4SOpPm) (inkluzive de Word, Affinity, Google Docs, ktp.).
 
-**Cairn** estas aventurludo por unu faciliganto (la **Gardisto**) kaj almenaŭ unu alia ludanto.
+**Cairn** estas aventurludo por unu faciliganto (la **Ludmastro**) kaj almenaŭ unu alia ludanto.
 Ludantoj agas kiel harditaj aventuristoj esplorantaj malluman kaj misteran Arbaron plenan de stranga homo, kaŝita trezoro kaj nedireblaj monstraĵoj.
 
 <details close markdown="block">
@@ -31,7 +31,7 @@ Ludantoj agas kiel harditaj aventuristoj esplorantaj malluman kaj misteran Arbar
 
 ### Neŭtraleco
 
-La rolo de la Gardisto estas portreti la regulojn, situaciojn, NPCojn, kaj rakonton klare, agante kiel neŭtrala arbitracianto.
+La rolo de la Ludmastro estas portreti la regulojn, situaciojn, NPCojn, kaj rakonton klare, agante kiel neŭtrala arbitracianto.
 
 ### Senklasa
 
@@ -64,7 +64,7 @@ Ludantoj fidas unu la alian por okupiĝi pri la komuna agordo, karakterceloj kaj
 [reen al indekso](# indekso)
 <p></p>
 
-## Principoj por Gardistoj
+## Principoj por Ludmastroj
 
 ### Informoj
 
@@ -138,7 +138,7 @@ Ludantoj fidas unu la alian por okupiĝi pri la komuna agordo, karakterceloj kaj
 ### Esplorado
 
 - Demandi kaj aŭskulti detalojn estas pli utila ol iuj ajn statistikoj, aĵoj aŭ kapabloj, kiujn vi havas.
-- Prenu la priskribon de la Gardisto sen suspekto, sed ne hezitu serĉi pliajn informojn.
+- Prenu la priskribon de la Ludmastro sen suspekto, sed ne hezitu serĉi pliajn informojn.
 - Ne ekzistas ununura ĝusta vojo antaŭen.
 
 ### Parolante
