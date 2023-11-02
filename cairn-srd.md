@@ -434,7 +434,7 @@ Se vi ŝatus ion pli proksiman al tradiciaj klasoj, raportu al la listo de [**Op
 |----|-------------------|----|---------------------|----|-------------------|-----|--------------------|
 | 1  | Aliĝi             | 26 | Flaro               | 51 | Likva Aero        | 76  | Reto               |
 | 2  | Altiri            | 27 | Fluega Formo        | 52 | Litotuko          | 77  | Salto              |
-| 3  | Alvestiĝo         | 28 | Fobio               | 53 | Logi Floro        | 78  | Senton             |
+| 3  | Alvestiĝo         | 28 | Fobio               | 53 | Logi Floro        | 78  | Sento             |
 | 4  | Animi Objekton    | 29 | Formo de Fumo       | 54 | Lumigu            | 79  | Sildo              |
 | 5  | Ankro             | 30 | Forpuŝi             | 55 | Magia Reduktilo   | 80  | Skulpti Elementojn |
 | 6  | Antropomorfigi    | 31 | Foso                | 56 | Malamo            | 81  | Snuff              |
@@ -484,119 +484,119 @@ Se vi ŝatus ion pli proksiman al tradiciaj klasoj, raportu al la listo de [**Op
 |Arko (d6 damaĝo, dika) |20 |
 |Arbalesto (d8 damaĝo, dika) |30 |
 
-#### Gear & Tools
+#### Ilaro
 
 | |                |                   |          |
 |---------------------------------------------|----------------|-------------------|----------|
-|Air Bladder                                  |5               |Large Trap         |20        |
-|Bellows                                      |10              |Large Sponge       |5         |
-|Bedroll                                      |5               |Lens               |10        |
-|Book                                         |50              |Lockpicks          |25        |
-|Bucket                                       |5               |Manacles           |10        |
-|Caltrops                                     |10              |Metal File         |5         |
-|Cart (+4 slots, bulky)                       |30              |Mirror             |5         |
-|Chain (10ft)                                 |10              |Mule (+6 slots, slow)|30      |
-|Chalk                                        |1               |Net                |10        |
-|Chisel                                       |5               |Oilskin Bag        |5         |
-|Cook Pots                                    |10              |Pick               |10        |
-|Crowbar                                      |10              |Pulley             |10        |
-|Drill (Manual)                               |10              |Pole (10ft)        |5         |
-|Face Paint                                   |10              |Quill & Ink        |10        |
-|Fire Oil                                     |10              |Rations (three day's worth)|10        |
-|Fishing Rod                                  |10              |Rope (25ft)        |5         |
-|Glass Marbles                                |5               |Saw                |5         |
-|Glue                                         |5               |Sack               |5         |
-|Grease                                       |10              |Shovel             |5         |
-|Grappling Hook                               |25              |Soap               |1         |
-|Hammer                                       |5               |Spike              |1         |
-|Holy Water                                   |25              |Spiked Boots       |5         |
-|Horn                                         |10              |Spyglass           |40        |
-|Horse (+4 slots)                             |75              |Tar                |10        |
-|Hourglass                                    |50              |Tent (fits 2 people, bulky)|20        |
-|Incense                                      |10              |Torch              |1         |
-|Ladder (bulky, 10ft)                         |10              |Wagon (+8 slots, slow)|200    |
-|Lantern & Oil                                |10              |Wolfsbane          |10        |
+|Aera Veziko |5 |Granda Kaptilo |20 |
+|Balgoj |10 |Granda Spongo |5 |
+|Bedroll |5 |Lenso |10 |
+|Libro |50 |Slosililoj |25 |
+|Sitelo |5 |Manaloj |10 |
+|Kvarpinta Pikilo |10 |Metala Dosiero |5 |
+|Ĉaro (+4 fendoj, dika) |30 |Spegulo |5 |
+|Ĉeno (10ft) |10 |Mulo (+6 fendoj, malrapida)|30 |
+|Kreto |1 |Reto |10 |
+|Cizilo |5 |Olefeta Sako |5 |
+|Kuirpotoj |10 |Elektu |10 |
+|Levstango |10 |Pulio |10 |
+|Borilo (Manlibro) |10 |Poluso (10ft) |5 |
+|Vizaĝa Farbo |10 |Plumo & Inko |10 |
+|Fajra Oleo |10 |Porcioj (tritaga valoro)|10 |
+|Fiŝkanto |10 |Ŝnuro (25ft) |5 |
+|Vitraj Marmoroj |5 |Segilo |5 |
+|Gluo |5 |Sako |5 |
+|Graso |10 |Ŝovelilo |5 |
+|Barĉhoko |25 |Sapo |1 |
+|Martelo |5 |Pikilo |1 |
+|Sankta Akvo |25 |Pikaj Botoj |5 |
+|Korno |10 |Specelo |40 |
+|Ĉevalo (+4 fendoj) |75 |Gudro |10 |
+|Sablohorloĝo |50 |Tendo (konvenas 2 personoj, dika)|20 |
+|Incenso |10 |Torĉo |1 |
+|Ŝtupetaro (grandega, 10 futoj) |10 |Ĉaro (+8 fendoj, malrapida)|200 |
+|Lanterno & Oleo |10 |Akonito |10 |
 
 <p></p>
 
-## Optional Gear Packages
+## Laŭvolaj Ilaj Pakoj
 
-#### Cleric
+#### Kleriko
 
 |                                 |
 | ------------------------------- |
-| War Hammer (d10, bulky)         |
-| Chainmail (2 Armor, bulky)      |
-| Gauntlets (+1 Armor)            |
-| Cleansing Blade (d6)               |
-| Holy Symbol (Ward once per day) |
-| Cloak of the Order              |
+| Militmartelo (d10, dika) |
+| Ĉenmaŝto (2 Kiraso, dika) |
+| Protektantaj Gantoj (+1 Kiraso)   |
+| Puriga Klingo (d6)        |
+| Sankta Simbolo (Protekto unufoje tage) |
+| Mantelo de la Ordono |
 
-#### Dowser
+#### Radiestezo
 
 |                                         |
 |-----------------------------------------|
-|Sickle (d6)                              |
-|Patchwork Doublet (+1  Armor)            |
-|Dowsing Rod                              |
-|Eyestone (Sense if placed in fresh water)|
-|Worn Map                                 |
-|Spyglass                                 |
+|Rikoltilo (d6) |
+|Miksĉifona Duopo (+1 Kiraso) |
+|Radiesteziga Vergo |
+|Okulŝtono (Sento se metita en freŝan akvon)|
+|Eluzita Mapo |
+|Specelo |
 
-#### Dwarf
-
-||
-|-----------------------------------------|
-|Prickly Root (d6)                        |
-|Pinecone Lattice (1 Armor)               |
-|Trowel                                   |
-|Jar of Forest Ants                       |
-|Poisonous mushroom                       |
-|Hand Drill                               |
-
-#### Elf
+#### Gnomo
 
 ||
 |-----------------------------------------|
-|Elegant Sword (d8)                       |
-|Recurve Bow (d8)                         |
-|Gilt Clothing (1 Armor)                  |
-|Spellbook (_Charm_ or _Detect Magic_)    |
-|Golden Flute                             |
-|Air Bladder                              |
+|Pika Radiko (d6) |
+|Pinkona Krado (1 Kiraso) |
+|Trulo |
+|Bozo de Arbaraj Formikoj |
+|Venena fungo |
+|Manborilo |
 
-#### Fighter
+#### Elfo
+
+||
+|-----------------------------------------|
+|Elega Glavo (d8) |
+|Rekurba pafarko (d8) |
+|Orumita Vestaĵo (1 Kiraso) |
+|Sortumlibro (_Ĉarmo_ aŭ _Detekti Magion_) |
+|Ora Fluto |
+|Aera Veziko |
+
+#### Batalanto
 
 ||
 |---------------------------------------|
-|Glaive (d10, bulky)                    |
-|Scimitar (d8)                          |
-|Shortsword (d6)                        |
-|Shortsword (d6)                        |
-|Tobacco Pouch & Pipe                   |
-|Dice Set                               |
+|Granda Glavo (d10, dika) |
+|Scimitaro (d8) |
+|Mallongvorto (d6) |
+|Mallongvorto (d6) |
+|Tabaka Sako & Pipo |
+|Ĵetkuboj |
 
-#### Friar
+#### Monaĥo
 
 ||
 |--------------------------------|
-|Scepter (d6)                    |
-|Deceptive Robes (+1 Armor)      |
-|Censer & Holy  Water            |
-|Jug of Honey Wine               |
-|Folk Songbook                   |
-|Cart (+4  slots, bulky)         |
+|Sceptro (d6) |
+|Trompaj Roboj (+1 Kiraso) |
+|Incensisto & Sankta Akvo |
+|Kruĉo de Miela Vino |
+|Popolkantaro |
+|Ĉaro (+4 fendoj, dika) |
 
-#### Knight
+#### Kavaliro
 
-|                            |
+| |
 | -------------------------- |
-| Longsword (d10, bulky)      |
-| Chainmail (2 Armor, bulky) |
-| Helmet (+1  Armor)         |
-| Heraldic Cape              |
-| Manacles                   |
-| Fine Rope                  |
+| Longglavo (d10, dika) |
+| Ĉenmaŝto (2 Kiraso, dika) |
+| Kasko (+1 Kiraso) |
+| Heraldika Kabo |
+| Manakloj |
+| Bona Ŝnuro |
 
 #### Magic User
 
