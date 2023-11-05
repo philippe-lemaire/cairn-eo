@@ -103,7 +103,7 @@ Ludantoj fidas unu la alian por okupiĝi pri la komuna agordo, karakterceloj kaj
 ### Trezoro
 
 - Trezoro estas specifa por la medio de kie ĝi estas reakirita. Ĝi rakontas historion.
-- Trezoro estas tre valora, preskaŭ ĉiam dika, kaj malofte utila preter sia valoro kaj prestiĝo.
+- Trezoro estas tre valora, preskaŭ ĉiam peza, kaj malofte utila preter sia valoro kaj prestiĝo.
 - Relikvoj ne estas Trezoro, kvankam ili estas utilaj kaj interesaj.
 - Uzu Trezoron kiel allogaĵon al ekzotikaj lokoj sub la protekto de timigaj malamikoj.
 
@@ -190,7 +190,7 @@ Ines ruliĝas por la **FOR** de sia karaktero, rezultigante **2**, **4** kaj **6
 
 ### Bata Protekto
 
-Rulu 1d6 por determini la komencan **Hit Protection** (HP) de via ludanta karactero, kiu reflektas ilian kapablon eviti damaĝon en batalo. HP ne indikas la sanon aŭ forton de karaktero; nek ili tre longe perdas ĝin (vidu **Resanigo**). Se atako prenas HP de ludanta karactero precize al 0, la ludanto devas ruliĝi sur la [**Scars**](/cairn-srd#scars-1) tablo.
+Rulu 1d6 por determini la komencan **Hit Protection** (HP) de via ludanta karactero, kiu reflektas ilian kapablon eviti damaĝon en batalo. HP ne inpezas la sanon aŭ forton de karaktero; nek ili tre longe perdas ĝin (vidu **Resanigo**). Se atako prenas HP de ludanta karactero precize al 0, la ludanto devas ruliĝi sur la [**Scars**](/cairn-srd#scars-1) tablo.
 
 #### Inventaro
 
@@ -271,7 +271,7 @@ Se vi ŝatus ion pli proksiman al tradiciaj klasoj, raportu al la listo de [**La
 | 1 | Atleta | 6 | Magra |
 | 2 | Brawny | 7 | Mallonga |
 | 3 | Flaska | 8 | Statueca |
-| 4 | Maldika | 9 | Stout |
+| 4 | Malpeza | 9 | Stout |
 | 5 | Fortika | 10 | Altega |
 
 #### Haŭto
@@ -395,7 +395,7 @@ Se vi ŝatus ion pli proksiman al tradiciaj klasoj, raportu al la listo de [**La
 | ---- | ---------------------- | ---- | -------------- | ---- | ----------- | ---- | ----------- |
 | 1 | Aera Veziko | 6 | Fajra Oleo | 11 | Manakloj | 16 | Ŝnuro (25ft) |
 | 2 | Antitoksino | 7 | Grapplingo | 12 | Elektu | 17 | Spirita Kvartalo |
-| 3 | Ĉaro (+4 fendoj, dika) | 8 | Granda Sako | 13 | Poluso (10ft) | 18 | Spyglass |
+| 3 | Ĉaro (+4 fendoj, peza) | 8 | Granda Sako | 13 | Poluso (10ft) | 18 | Spyglass |
 | 4 | Ĉeno (10ft) | 9 | Granda Kaptilo | 14 | Pulio | 19 | Tinderbox |
 | 5 | Radiesteziga Vergo | 10 | Ŝlosiloj | 15 | Forpuŝrimedo | 20 | Wolfsbane |
 
@@ -469,9 +469,9 @@ Se vi ŝatus ion pli proksiman al tradiciaj klasoj, raportu al la listo de [**La
 |Ŝildo (+1 Kiraso) |10 |
 |Kasko (+1 Kiraso) |10 |
 |Gambeson (+1 Kiraso) |15 |
-|Brigantino (1 Kiraso, dika) |20 |
-|Ĉenpoŝto (2 Kiraso, dika) |40 |
-|Plato (3 Kiraso, dika) |60 |
+|Brigantino (1 Kiraso, peza) |20 |
+|Ĉenpoŝto (2 Kiraso, peza) |40 |
+|Plato (3 Kiraso, peza) |60 |
 
 #### Armiloj
 
@@ -479,10 +479,10 @@ Se vi ŝatus ion pli proksiman al tradiciaj klasoj, raportu al la listo de [**La
 |--------------------------------------------------------------|-----|
 |Ponerdo, Rikolto, Rikolto, Bastono, ktp. (d6 damaĝo) |5 |
 |Lanco, Glavo, Maskuto, Hakilo, Flugilo ktp (d8 damaĝo) |10 |
-|Halebardo, Militmartelo, Longa Glavo, ktp (d10 damaĝo, dika) |20 |
+|Halebardo, Militmartelo, Longa Glavo, ktp (d10 damaĝo, peza) |20 |
 |Slingo (d4 damaĝo) |5 |
-|Arko (d6 damaĝo, dika) |20 |
-|Arbalesto (d8 damaĝo, dika) |30 |
+|Arko (d6 damaĝo, peza) |20 |
+|Arbalesto (d8 damaĝo, peza) |30 |
 
 #### Ilaro
 
@@ -494,7 +494,7 @@ Se vi ŝatus ion pli proksiman al tradiciaj klasoj, raportu al la listo de [**La
 |Libro |50 |Slosililoj |25 |
 |Sitelo |5 |Manaloj |10 |
 |Piedpikilo |10 |Metala Dosiero |5 |
-|Ĉaro (+4 fendoj, dika) |30 |Spegulo |5 |
+|Ĉaro (+4 fendoj, peza) |30 |Spegulo |5 |
 |Ĉeno (10ft) |10 |Mulo (+6 fendoj, malrapida)|30 |
 |Kreto |1 |Reto |10 |
 |Cizilo |5 |Olefeta Sako |5 |
@@ -512,7 +512,7 @@ Se vi ŝatus ion pli proksiman al tradiciaj klasoj, raportu al la listo de [**La
 |Sankta Akvo |25 |Pikaj Botoj |5 |
 |Korno |10 |Specelo |40 |
 |Ĉevalo (+4 fendoj) |75 |Gudro |10 |
-|Sablohorloĝo |50 |Tendo (konvenas 2 personoj, dika)|20 |
+|Sablohorloĝo |50 |Tendo (konvenas 2 personoj, peza)|20 |
 |Incenso |10 |Torĉo |1 |
 |Ŝtupetaro (grandega, 10 futoj) |10 |Ĉaro (+8 fendoj, malrapida)|200 |
 |Lanterno & Oleo |10 |Akonito |10 |
@@ -525,8 +525,8 @@ Se vi ŝatus ion pli proksiman al tradiciaj klasoj, raportu al la listo de [**La
 
 |                                 |
 | ------------------------------- |
-| Militmartelo (d10, dika) |
-| Ĉenmaŝto (2 Kiraso, dika) |
+| Militmartelo (d10, peza) |
+| Ĉenmaŝto (2 Kiraso, peza) |
 | Protektantaj Gantoj (+1 Kiraso)   |
 | Puriga Klingo (d6)        |
 | Sankta Simbolo (Protekto unufoje tage) |
@@ -569,7 +569,7 @@ Se vi ŝatus ion pli proksiman al tradiciaj klasoj, raportu al la listo de [**La
 
 ||
 |---------------------------------------|
-|Granda Glavo (d10, dika) |
+|Granda Glavo (d10, peza) |
 |Scimitaro (d8) |
 |Mallongvorto (d6) |
 |Mallongvorto (d6) |
@@ -585,16 +585,16 @@ Se vi ŝatus ion pli proksiman al tradiciaj klasoj, raportu al la listo de [**La
 |Incensisto & Sankta Akvo |
 |Kruĉo de Miela Vino |
 |Popolkantaro |
-|Ĉaro (+4 fendoj, dika) |
+|Ĉaro (+4 fendoj, peza) |
 
 #### Kavaliro
 
 | |
 | -------------------------- |
-| Longglavo (d10, dika) |
-| Ĉenmaŝto (2 Kiraso, dika) |
+| Longglavo (d10, peza) |
+| Ĉenmaŝto (2 Kiraso, peza) |
 | Kasko (+1 Kiraso) |
-| Heraldika Kabo |
+| Heralpeza Kabo |
 | Manakloj |
 | Bona Ŝnuro |
 
@@ -602,7 +602,7 @@ Se vi ŝatus ion pli proksiman al tradiciaj klasoj, raportu al la listo de [**La
 
 ||
 |-----------------------------------------|
-| Noda Bastono (d8, dika) |
+| Noda Bastono (d8, peza) |
 | Ponardo (d6) |
 | Sorĉlibro (hazarda sorĉo) |
 | Sorĉlibro (hazarda sorĉo) |
@@ -624,7 +624,7 @@ Se vi ŝatus ion pli proksiman al tradiciaj klasoj, raportu al la listo de [**La
 
 ||
 |-----------------------------------------|
-| Longarko (d8, dika) |
+| Longarko (d8, peza) |
 | Hakilo (d6) |
 | Remburitaj Ledoj (1 Kiraso) |
 | Granda Kaptilo |
@@ -693,7 +693,7 @@ Ludantaj Karakteroj povas dungi **dungitojn** por helpi ilin en siaj ekspedicioj
 
 La plej ofta monero estas la ora peco (op), kiu egalas al 10 arĝentaj pecoj (ap) kaj 100 kupraj pecoj (kp).
 
-Trezoro estas tre valora, kutime dika, kaj malofte utila preter sia valoro. Ĝi povas esti logilo, portanta Ludantaj Karakteroj al ekzotikaj kaj eĉ danĝeraj lokoj, kaj ofte estas sub la protekto de timigado de malamikoj.
+Trezoro estas tre valora, kutime peza, kaj malofte utila preter sia valoro. Ĝi povas esti logilo, portanta Ludantaj Karakteroj al ekzotikaj kaj eĉ danĝeraj lokoj, kaj ofte estas sub la protekto de timigado de malamikoj.
 
 Vilaĝoj, fortikejoj, kaj vizithavenoj interŝanĝo kaj komerco surbaze de la loka maloftaĵo kaj valoro de objekto aŭ krudvaro.
 
