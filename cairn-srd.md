@@ -717,31 +717,33 @@ Iu ajn povas sorĉi tenante Sorĉlibron en ambaŭ manoj kaj laŭtlegante ĝian e
 
 ### Relics
 
-**Relics** are items imbued with a magical spell or power. They do not cause Fatigue. Relics usually have a limited use, as well as a recharge condition. A few examples:
+### Relikvoj
 
-**Honeyclasp** , 3 charges. A rusted ring that shrinks the bearer to 6" tall. Recharge: place in a thimble-sized cup of royal jelly.
+**Relikvoj** estas eroj plenigitaj per magia sorĉo aŭ potenco. Ili ne kaŭzas Lacecon. Relikvoj kutime havas limigitan uzon, same kiel reŝargan kondiĉon. Kelkaj ekzemploj:
 
-**Falconer's Friend** , 1 charge. A bolt-shaped wand carrying the _Haste_ spell. Recharge: fire from a crossbow and recover.
+**Honeyclasp** , 3 ŝargoj. Rustita ringo kiu ŝrumpas la portanton ĝis 6" alta. Reŝargo: metu en fingrin-grandan tason da reĝa ĵeleo.
 
-**Staff of Silence** , 1 charge. This blackened rod temporarily disables all magic within 50ft. Recharge: bathe in the light of a full moon.
+**Amiko de Falkisto** , 1 akuzo. Rigliloforma vergo portanta la _Haste_-sorĉon. Reŝargu: fajro de arbalesto kaj resaniĝi.
 
-**Leycap** , 1 use. Anyone ingesting this green-flecked mushroom loses a Fatigue, but is then required to make a VOL save to avoid its addictive properties. A fail leaves the Ludantaj Karacteroj deprived and unable to focus until they can eat another leycap, providing only a brief reprieve from the addiction.
+**Personaro de Silento** , 1 pagendaĵo. Ĉi tiu nigrigita bastono provizore malŝaltas ĉiun magion ene de 50ft. Reŝargo: baniĝu en la lumo de plenluno.
 
-## Combat
+**Bazidiomiceto** , 1 uzo. Ĉiu, kiu ingestas ĉi tiun verd-makulan fungon, perdas Lacecon, sed tiam estas postulata fari VOL-ŝparon por eviti ĝiajn dependigajn ecojn. Malsukceso lasas la Ludantaj Karacteroj senhavigita kaj nekapabla fokusi ĝis ili povas manĝi alian Bazidiomiceton, disponigante nur mallongan punprokraston de la dependeco.
 
-### Rounds
+## Batalo
 
-The game typically plays without strict time accounting. In a fight or circumstance where timing is helpful, use rounds to keep track of when something occurs. A **round** is roughly ten seconds of in-game time and is comprised of turns.
+### Rondoj
 
-### Actions
+La ludo tipe ludas sen strikta tempokontado. En batalo aŭ cirkonstanco, kie tempigo estas helpema, uzu ĉirkaŭvojojn por konservi trakon de kiam io okazas. **rondo** estas proksimume dek sekundoj da en-luda tempo kaj konsistas el turnoj.
 
-On their turn, a character may move up to 40ft and take up to one action. This may be casting a spell, attacking, making a second move, or some other reasonable action.
+### Agoj
 
-Each round, the Ludantaj Karakteroj declare what they are doing before dice are rolled. If a character attempts something risky, the Ludmastro calls for a save for appropriate players or NLudantaj Karakteroj.
+Siavice, karaktero povas moviĝi ĝis 40 futojn kaj preni ĝis unu agon. Ĉi tio povas esti ĵetado de sorĉo, atakado, fari duan movon, aŭ iu alia racia ago.
 
-### Turns
+Ĉiu rondo, la Ludantaj Karakteroj deklaras kion ili faras antaŭ ol ĵetkuboj estas rulitaj. Se rolulo provas ion riskan, la Ludmastro postulas ŝparon por taŭgaj ludantoj aŭ NLudantaj Karakteroj.
 
-The Ludmastro will telegraph the most likely actions taken by NLudantaj Karakteroj or monsters. At the start of combat, each Ludantaj Karacteroj must make a LER save to act before their opponents.
+### Turnoj
+
+La Ludmastro telegrafos la plej verŝajnajn agojn faritajn de NLudantaj Karakteroj aŭ monstroj. Komence de batalo, ĉiu Ludantaj Karacteroj devas fari LER-ŝparon por agi antaŭ siaj kontraŭuloj.
 
 <details markdown="block">
   <summary>
