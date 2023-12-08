@@ -190,7 +190,7 @@ Ines ruliĝas por la **FOR** de sia karaktero, rezultigante **2**, **4** kaj **6
 
 ### Bata Protekto
 
-Rulu 1d6 por determini la komencan **Hit Protection** (HP) de via ludanta karactero, kiu reflektas ilian kapablon eviti damaĝon en batalo. HP ne inpezas la sanon aŭ forton de karaktero; nek ili tre longe perdas ĝin (vidu **Resanigo**). Se atako prenas HP de ludanta karactero precize al 0, la ludanto devas ruliĝi sur la [**Scars**](/cairn-srd#scars-1) tablo.
+Rulu 1d6 por determini la komencan **Trafprotekto** (TP) de via ludanta karactero, kiu reflektas ilian kapablon eviti damaĝon en batalo. TP ne inpezas la sanon aŭ forton de karaktero; nek ili tre longe perdas ĝin (vidu **Resanigo**). Se atako prenas TP de ludanta karactero precize al 0, la ludanto devas ruliĝi sur la [**Scars**](/cairn-srd#scars-1) tablo.
 
 #### Inventaro
 
@@ -198,7 +198,7 @@ Karakteroj havas entute 10 stokregistrofendetojn: tornistro kun ses fendetoj, un
 
 Plej multaj eroj okupas unu fendon, kaj malgrandaj aĵoj povas esti kunmetitaj. Fendoj estas abstraktaj kaj povas esti rearanĝitaj laŭ la bontrovo de la Prizorganto.
 
-**Dimensaj** aĵoj okupas du fendojn kaj estas kutime dumane aŭ mallerte por porti. Iu ajn portanta plenan inventaron (t.e. plenigante ĉiujn 10 fendojn) estas reduktita al 0 HP.
+**Dimensaj** aĵoj okupas du fendojn kaj estas kutime dumane aŭ mallerte por porti. Iu ajn portanta plenan inventaron (t.e. plenigante ĉiujn 10 fendojn) estas reduktita al 0 TP.
 
 Ludanta karactero ne povas porti pli da eroj ol ilia inventaro permesas. Ĉaroj (kiuj devas esti tiritaj per ambaŭ manoj), ĉevaloj aŭ muloj povas pliigi stokregistron. **Dungantoj** ankaŭ povas esti pagitaj por porti ekipaĵon.
 
@@ -628,7 +628,7 @@ Se vi ŝatus ion pli proksiman al tradiciaj klasoj, raportu al la listo de [**La
 | Hakilo (d6) |
 | Remburitaj Ledoj (1 Kiraso) |
 | Granda Kaptilo |
-| Sangohundo &#124; 2 HP, 12 LER, mordo (d6) |
+| Sangohundo &#124; 2 TP, 12 LER, mordo (d6) |
 | Tondra Korno |
 
 [back to index](#index)
@@ -660,15 +660,15 @@ Vastigi por vidi ekzemplon
 
 ### Resanigo
 
-Ripozi dum kelkaj momentoj kaj trinki akvon restarigas perditan HP sed lasas la partion senŝirma. Kapablo-perdo (vidu **Kritika Damaĝo**) kutime povas esti restarigita kun semajna ripozo faciligita de resaniganto aŭ alia taŭga fonto de kompetenteco. Iuj el ĉi tiuj servoj estas senpagaj, dum magiaj aŭ pli oportunaj rimedoj de reakiro povas havi koston.
+Ripozi dum kelkaj momentoj kaj trinki akvon restarigas perditan TP sed lasas la partion senŝirma. Kapablo-perdo (vidu **Kritika Damaĝo**) kutime povas esti restarigita kun semajna ripozo faciligita de resaniganto aŭ alia taŭga fonto de kompetenteco. Iuj el ĉi tiuj servoj estas senpagaj, dum magiaj aŭ pli oportunaj rimedoj de reakiro povas havi koston.
 
 ### Senigo kaj Laceco
 
-Karaktero **senigita** de grava bezono (kiel manĝaĵo aŭ ripozo) ne kapablas reakiri HP aŭ kapablecpoentarojn. Iu ajn senigita dum pli ol tago aldonas **Lacecon** al sia inventaro, unu por ĉiu tago. Ĉiu Laceco okupas unu fendeton kaj daŭras ĝis ili povas resaniĝi (kiel ekzemple plena nokta ripozo en sekura loko). Karakteroj ankaŭ povas akiri Laciĝon per **ĵetado de sorĉoj** aŭ per eventoj en la fikcio.
+Karaktero **senigita** de grava bezono (kiel manĝaĵo aŭ ripozo) ne kapablas reakiri TP aŭ kapablecpoentarojn. Iu ajn senigita dum pli ol tago aldonas **Lacecon** al sia inventaro, unu por ĉiu tago. Ĉiu Laceco okupas unu fendeton kaj daŭras ĝis ili povas resaniĝi (kiel ekzemple plena nokta ripozo en sekura loko). Karakteroj ankaŭ povas akiri Laciĝon per **ĵetado de sorĉoj** aŭ per eventoj en la fikcio.
 
 ### Kiraso
 
-Antaŭ ol kalkuli damaĝon al HP, subtrahi la **Kiraso**-valoron de la celo de la rezulto de damaĝaj ruloj. Ŝildoj kaj simila kiraso disponigas kromdefendon (ekz. +1 Kiraso), sed nur dum la objekto estas tenita aŭ portita.
+Antaŭ ol kalkuli damaĝon al TP, subtrahi la **Kiraso**-valoron de la celo de la rezulto de damaĝaj ruloj. Ŝildoj kaj simila kiraso disponigas kromdefendon (ekz. +1 Kiraso), sed nur dum la objekto estas tenita aŭ portita.
 Neniu povas havi pli ol 3 Kirason.
 Ŝildoj, protektgantoj kaj stiriloj povas provizi pliajn avantaĝojn laŭ ilia uzo.
 
@@ -683,11 +683,11 @@ Kiam la Ludantaj Karakteroj renkontas neludantaj karacteroj kies reago al la gru
 
 ### Moralo
 
-Malamikoj devas pasi VOL-savon por eviti fuĝi kiam ili prenas sian unuan viktimon kaj denove kiam ili perdas duonon de sia nombro. Kelkaj grupoj povas uzi la VOL de sia gvidanto anstataŭe de sia propra. Solaj malamikoj devas ŝpari kiam ili estas reduktitaj al 0 HP. Moralo ne influas Ludantaj Karakteroj.
+Malamikoj devas pasi VOL-savon por eviti fuĝi kiam ili prenas sian unuan viktimon kaj denove kiam ili perdas duonon de sia nombro. Kelkaj grupoj povas uzi la VOL de sia gvidanto anstataŭe de sia propra. Solaj malamikoj devas ŝpari kiam ili estas reduktitaj al 0 TP. Moralo ne influas Ludantaj Karakteroj.
 
 ### Hirelings
 
-Ludantaj Karakteroj povas dungi **dungitojn** por helpi ilin en siaj ekspedicioj. Por krei dungiton, rulu 3d6 por ĉiu kapablopoentaro, tiam donu al ili 1d6 HP kaj simplan armilon (d6), tiam rulu sur la [**Karaktero Kreado**](#karaktero-kreado) tabloj por plie karnizi ilin. Dungitoj kostas inter 1-3op tage, aŭ parton de kia ajn trezoro la partio akiras.
+Ludantaj Karakteroj povas dungi **dungitojn** por helpi ilin en siaj ekspedicioj. Por krei dungiton, rulu 3d6 por ĉiu kapablopoentaro, tiam donu al ili 1d6 TP kaj simplan armilon (d6), tiam rulu sur la [**Karaktero Kreado**](#karaktero-kreado) tabloj por plie karnizi ilin. Dungitoj kostas inter 1-3op tage, aŭ parton de kia ajn trezoro la partio akiras.
 
 ### Riĉeco & Trezoro
 
@@ -747,20 +747,20 @@ La Ludmastro telegrafos la plej verŝajnajn agojn faritajn de NLudantaj Karakter
 
 <details markdown="block">
   <summary>
-Expand For Example
+Vastigi por vidi ekzemplon
  </summary>
- _Bea has accidentally stumbled onto the stomping grounds of a massive Wood Troll. In order to make a move before the Troll, she makes a LER save. She fails, and the Troll gets to attack first._
+_Bea hazarde trafis sur la piedpremantajn terenojn de masiva Arbara Trolo. Por fari movon antaŭ la Trolo, ŝi faras LER-ŝparon. Ŝi malsukcesas, kaj la Trolo unue atakas._
 </details>
 
 ### Attacking & Damage
 
-The attacker rolls their weapon die and subtracts the target's armor, then deals the remaining total to their opponent's HP. Unarmed attacks always do 1d4 damage.
+La atakanto ruliĝas sian armilĵetkubon kaj subtrahas la kirason de la celo, tiam traktas la restantan totalon al la TP de sia kontraŭulo. Senarmaj atakoj ĉiam faras 1d4 damaĝon.
 
 <details markdown="block">
   <summary>
-Expand For Example
+Vastigi por vidi ekzemplon
  </summary>
- _The Wood Troll roars, swinging its club at Bea, who has 5 HP. The club does 1d10 damage and the Ludmastro rolls a 4. They subtract 1 to account for Bea's  leather armor, leaving Bea with 2 HP remaining_.
+_La Ligna Trolo muĝas, svingante sian klabon ĉe Bea, kiu havas 5 TP. La klubo faras 1d10 difekton kaj la Ludmastro ruliĝas 4-a Ili subtrahas 1 por respondeci pri la leda kiraso de Bea, forlasante Bea kun 2 TP restanta_.
 </details>
 
 ### Multiple Attackers
@@ -783,7 +783,7 @@ Attacks with the **blast** quality affect all targets in the noted area, rolling
 
 ### Critical Damage
 
-Damage that reduces a target's HP below zero decreases a target's FOR by the amount remaining. They must then make a FOR save to avoid **critical damage**. Additionally, some enemies will have special abilities or effects that are triggered when their target fails a critical damage save.
+Damage that reduces a target's TP below zero decreases a target's FOR by the amount remaining. They must then make a FOR save to avoid **critical damage**. Additionally, some enemies will have special abilities or effects that are triggered when their target fails a critical damage save.
 
 Any Ludantaj Karacteroj that suffers critical damage cannot do anything but crawl weakly, grasping for life. If given aid and rest, they will stabilize. If left untreated, they die within the hour.
 
@@ -794,7 +794,7 @@ Complete LER and VOL loss renders the character unable to act until they are res
 
 ### Scars
 
-When damage to a Ludantaj Karacteroj reduces their HP to exactly 0, they are sometimes changed irrevocably. See the [**Scars**](/cairn-srd#scars-1) table for more.
+When damage to a Ludantaj Karacteroj reduces their TP to exactly 0, they are sometimes changed irrevocably. See the [**Scars**](/cairn-srd#scars-1) table for more.
 
 ### Unconsciousness & Death
 
@@ -813,22 +813,22 @@ Running away from a dire situation always requires a successful LER save, as wel
 
 ### Scars
 
-When an attack reduces a Ludantaj Karacteroj's HP to exactly 0, they are uniquely impacted. Look up the result on the table below based on the total damage taken:
+When an attack reduces a Ludantaj Karacteroj's TP to exactly 0, they are uniquely impacted. Look up the result on the table below based on the total damage taken:
 
 |      |                                                              |
 |------ |---|
-| 1    | Lasting Scar: Roll 1d6 &#124; 1: Neck, 2: Hands, 3: Eye, 4: Chest, 5: Legs, 6: Ear. Roll 1d6. If the total is higher than your max HP, take the new result. |
-| 2    | Rattling Blow: You’re disoriented and shaken. Describe how you refocus. Roll 1d6. If the total is higher than your max HP, take the new result. |
-| 3    | Walloped: You’re sent flying and land flat on your face, winded. You are deprived until you rest for a few hours. Then, roll 1d6. Add that amount to your max HP. |
-| 4    | Broken Limb: Roll 1d6 &#124; 1-2: Leg, 3-4: Arm, 5: Rib, 6: Skull. Once mended, roll 2d6. If the total is higher than your max HP, take the new result. |
-| 5    | Diseased: You’re afflicted with a gross, uncomfortable infection. When you get over it, roll 2d6. If the total is higher than your max HP, take the new result. |
+| 1    | Lasting Scar: Roll 1d6 &#124; 1: Neck, 2: Hands, 3: Eye, 4: Chest, 5: Legs, 6: Ear. Roll 1d6. If the total is higher than your max TP, take the new result. |
+| 2    | Rattling Blow: You’re disoriented and shaken. Describe how you refocus. Roll 1d6. If the total is higher than your max TP, take the new result. |
+| 3    | Walloped: You’re sent flying and land flat on your face, winded. You are deprived until you rest for a few hours. Then, roll 1d6. Add that amount to your max TP. |
+| 4    | Broken Limb: Roll 1d6 &#124; 1-2: Leg, 3-4: Arm, 5: Rib, 6: Skull. Once mended, roll 2d6. If the total is higher than your max TP, take the new result. |
+| 5    | Diseased: You’re afflicted with a gross, uncomfortable infection. When you get over it, roll 2d6. If the total is higher than your max TP, take the new result. |
 | 6    | Reorienting Head Wound: Roll 1d6 &#124; 1-2: FOR, 3-4: LER, 5-6: VOL. Roll 3d6. If the total is higher than your current ability score, take the new result. |
 | 7    | Hamstrung: You can barely move until you get serious help and rest. After recovery, roll 3d6. If the total is higher than your max LER, take the new result. |
 | 8    | Deafened: You cannot hear anything until you find extraordinary aid. Regardless, make a VOL save. If you pass, increase your max VOL by 1d4. |
 | 9    | Re-brained: Some hidden part of your psyche is knocked loose. Roll 3d6. If the total is higher than your max VOL, take the new result. |
 | 10   | Sundered: An appendage is torn off, crippled or useless. The Ludmastro will tell you which. Then, make a VOL save. If you pass, increase your max VOL by 1d6. |
-| 11   | Mortal Wound: You are deprived and out of action. You die in one hour unless healed. Upon recovery, roll 2d6. Take the new result as your max HP. |
-| 12   | Doomed: Death seemed ever so close, but somehow you survived. If your next save against critical damage is a fail, you die horribly. If you pass, roll 3d6. If the total is higher than your max HP, take the new result. |
+| 11   | Mortal Wound: You are deprived and out of action. You die in one hour unless healed. Upon recovery, roll 2d6. Take the new result as your max TP. |
+| 12   | Doomed: Death seemed ever so close, but somehow you survived. If your next save against critical damage is a fail, you die horribly. If you pass, roll 3d6. If the total is higher than your max TP, take the new result. |
 
 [back to index](#index)
 <p></p>
@@ -836,38 +836,38 @@ When an attack reduces a Ludantaj Karacteroj's HP to exactly 0, they are uniquel
 ## Bestiary
 
 **Root Goblin**
-4 HP, 8 FOR, 14 LER, 8 VOL, spear (d6)
+4 TP, 8 FOR, 14 LER, 8 VOL, spear (d6)
 
 - Avoid combat unless they have the advantage (such as greater numbers).
 - Guard their stolen goods to the death.
 - Prize Spellbooks; willing to trade.
 
 **Hooded Men**
-12 HP, 9 FOR, 12 LER, 14 VOL, leystaff (d8), a Spellbook (Choose one: _Charm, Hypnotize, Push/Pull, Shield_)
+12 TP, 9 FOR, 12 LER, 14 VOL, leystaff (d8), a Spellbook (Choose one: _Charm, Hypnotize, Push/Pull, Shield_)
 
 - The Watchers of the Wood; a cult that derive their power from leylines, rune stones, and the like.
 - Critical damage: leech a part of the victim's soul (1d4 VOL damage).
 
 **Cobblehounds**
-12 HP, 2 Armor, 14 FOR, 1 LER, 8 VOL, bite (d10)
+12 TP, 2 Armor, 14 FOR, 1 LER, 8 VOL, bite (d10)
 
 - Immobile constructs typically used as guardians to great tombs or artifacts.
 - Unaffected by mundane persuasion techniques - but do love a good bone.
 
 **Wood Troll**
-12 HP, 15 FOR, 12 LER, 7 VOL, claws and bite (d8+d8 blast)
+12 TP, 15 FOR, 12 LER, 7 VOL, claws and bite (d8+d8 blast)
 
-- As an action, can recover lost HP.
+- As an action, can recover lost TP.
 - Critical damage: moss and twigs begin growing out of target's wounds.
 
 **Frost Elf**
-14 HP, 1 Armor, 8 FOR, 13 LER, 14 VOL, icicle dagger (d6), a Spellbook (Choose one: _Sleep, Teleport, Detect Magic)_
+14 TP, 1 Armor, 8 FOR, 13 LER, 14 VOL, icicle dagger (d6), a Spellbook (Choose one: _Sleep, Teleport, Detect Magic)_
 
 - Beautiful, amoral, and long-lived.
 - Resistant to most forms of magic.
 
 **Boggart**
-3 HP, 4 FOR, 17 LER, 13 VOL
+3 TP, 4 FOR, 17 LER, 13 VOL
 
 - A wild, hairy trickster that takes pleasure in being a minor nuisance.
 - Prizes relics and shiny trinkets above all else but unwilling to trade for coin.
@@ -878,7 +878,7 @@ When an attack reduces a Ludantaj Karacteroj's HP to exactly 0, they are uniquel
 Use the following template to model any more sophisticated Monster or NLudantaj Karacteroj:
 
 **Name**
-X HP, X Armor, X FOR, X LER, X VOL, Weapon (dX, special items, qualities)
+X TP, X Armor, X FOR, X LER, X VOL, Weapon (dX, special items, qualities)
 
 - Engaging descriptor of appearance or demeanor
 - Quirk, tactic, or peculiarity making this NLudantaj Karacteroj unique
@@ -887,20 +887,20 @@ X HP, X Armor, X FOR, X LER, X VOL, Weapon (dX, special items, qualities)
 **General Principles**
 Ability Scores: 3 is deficient, 6 is weak, 10 is average, 14 is noteworthy, and 18 is legendary. Adjust as necessary.
 
-- Give average creatures 3 HP, give hardy ones 6 HP, and serious threats get 10+ HP.
+- Give average creatures 3 TP, give hardy ones 6 TP, and serious threats get 10+ TP.
 - Use flavor and style to help them stand out. Players will remember a pig-faced humanoid looking for his missing sheep more easily than a generic goblin archer.
 - Use critical damage to lean into the threat or strangeness of any aggressive NLudantaj Karacteroj.
-- Remember that HP is **Hit Protection** , not Hit Points. It's a measure of resilience, luck, and gumption - not health.
+- Remember that TP is **Hit Protection** , not Hit Points. It's a measure of resilience, luck, and gumption - not health.
 
 **Converting from OSR Games**
 
-- Give 1 HP per HD for most creatures.
-- Most humanoids have at least 4HP.
+- Give 1 TP per HD for most creatures.
+- Most humanoids have at least 4TP.
 - **Morale** can also be used as a baseline.
 
 Some pointers:
 
-- Is it good at avoiding a hit? Give it HP.
+- Is it good at avoiding a hit? Give it TP.
 - Does it soak up damage? Give it Armor.
 - Is it strong? Give it a high **FOR**.
 - Is it nimble? Give it high **LER**.
@@ -1037,18 +1037,18 @@ On their turn, a character may move up to 40ft and take up to one action. Action
 - 1 is always a success, 20 is always a failure.
 
 **HIT PROTECTION**
-**HP** indicates a Ludantaj Karacteroj's ability to avoid getting hurt. It is lost during combat & recovered after a few moment's rest.
+**TP** indicates a Ludantaj Karacteroj's ability to avoid getting hurt. It is lost during combat & recovered after a few moment's rest.
 
 **INVENTORY**
 Ludantaj Karakteroj have 10 inventory slots: four on their body and six in their backpack (which acts as a sleeping bag if emptied). Most items take up a one slot, but smaller items can be bundled. **Bulky** items take up two slots and are awkward or difficult to carry.
 
-Filling all ten item slots reduces a Ludantaj Karacteroj to 0 HP. Ludantaj Karakteroj cannot carry more than their inventory allows, though carts & horses may provide an increase in slots.
+Filling all ten item slots reduces a Ludantaj Karacteroj to 0 TP. Ludantaj Karakteroj cannot carry more than their inventory allows, though carts & horses may provide an increase in slots.
 
 **DEPRIVATION**
-**Deprived** Ludantaj Karakteroj cannot recover HP. If deprived for more than a day,they add a **Fatigue** to inventory. Fatigue occupies one slot and lasts until they can recover in safety. This effect is cumulative.
+**Deprived** Ludantaj Karakteroj cannot recover TP. If deprived for more than a day,they add a **Fatigue** to inventory. Fatigue occupies one slot and lasts until they can recover in safety. This effect is cumulative.
 
 **HEALING**
-A moment's rest and a swig of water will restore lost HP, but may leave the party vulnerable. **Ability** loss requires a week's rest and the aid of a skilled healer.
+A moment's rest and a swig of water will restore lost TP, but may leave the party vulnerable. **Ability** loss requires a week's rest and the aid of a skilled healer.
 
 **SPELLBOOKS**
 Spellbooks contain a single spell and take up one item slot. Anyone can cast a spell by holding a Spellbook in both hands and reading its contents aloud. Casting a spell adds **Fatigue** to the Ludantaj Karacteroj's inventory.
@@ -1056,9 +1056,9 @@ Spellbooks contain a single spell and take up one item slot. Anyone can cast a s
 Given time and safety, Ludantaj Karakteroj can enhance a spell without any additional cost. If they are deprived or in danger, a VOL save may be required to avoid terrible consequences.
 
 **COMBAT**
-The attacker rolls their weapon die and subtracts the target's Armor, then deals the remaining total to their opponent's HP.
+The attacker rolls their weapon die and subtracts the target's Armor, then deals the remaining total to their opponent's TP.
 
-Before calculating damage to HP, subtract the target's **Armor** value from the result of damage rolls. Shields and similar armor provides a bonus defense (e.g. +1 Armor), but only while the item is held or worn.
+Before calculating damage to TP, subtract the target's **Armor** value from the result of damage rolls. Shields and similar armor provides a bonus defense (e.g. +1 Armor), but only while the item is held or worn.
 
 No one can have more than 3 Armor.
 
@@ -1067,8 +1067,8 @@ No one can have more than 3 Armor.
 If an attack is **impaired** , the damage die is reduced to 1d4, regardless of weapon. If the attack is **enhanced**, the attacker rolls 1d12. Attacks with the **blast** quality affect all area targets, rolling separately for each.
 
 **DAMAGE**
-If an attack reduces a Ludantaj Karacteroj’s HP exactly to 0, refer to the [**Scars**](/cairn-srd#scars-1) table.
+If an attack reduces a Ludantaj Karacteroj’s TP exactly to 0, refer to the [**Scars**](/cairn-srd#scars-1) table.
 
-Damage that reduces a target's HP **below** 0 decreases their FOR by the remainder. They must then make a FOR save to avoid **critical damage.**  Failure takes them out of combat, dying if left untreated.
+Damage that reduces a target's TP **below** 0 decreases their FOR by the remainder. They must then make a FOR save to avoid **critical damage.**  Failure takes them out of combat, dying if left untreated.
 
 Having FOR 0 means **death;** having LER 0 is paralysis; having VOL 0 is delirium.
