@@ -773,13 +773,13 @@ Se oni batalas de pozicio de malforto (kiel ekzemple tra kovrilo aŭ kun ligitaj
 
 Se oni batalas el pozicio de avantaĝo (kiel kontraŭ senhelpa malamiko aŭ per aŭdaca manovro), la atako estas **plifortigita**, permesante al la atakanto ruliĝi 1d12 damaĝon anstataŭ sia normala ĵetkubo.
 
-### Dual Weapons
+### Duoblaj Armiloj
 
-If attacking with two weapons at the same time, roll both damage dice and keep the single highest result.
+Se atakas per du armiloj samtempe, ĵetu ambaŭ damaĝajn ĵetkubojn kaj konservu la plej altan rezulton.
 
-### Blast
+### Eksplodo
 
-Attacks with the **blast** quality affect all targets in the noted area, rolling separately for each affected character. Blast refers to anything from explosions to huge cleaving onslaughts to the impact of a meteorite. If unsure how many targets can be affected, roll the related damage die for a result.
+Atakoj kun la **eksploda** kvalito influas ĉiujn celojn en la notita areo, ruliĝante aparte por ĉiu tuŝita karaktero. Eksplodo rilatas al io ajn de eksplodoj ĝis enormaj fendaj atakoj ĝis la efiko de meteorito. Se ne certas kiom da celoj povas esti trafitaj, rulu la rilatan damaĝan ĵetkubon por rezulto.
 
 ### Critical Damage
 
