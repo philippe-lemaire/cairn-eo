@@ -783,7 +783,7 @@ Atakoj kun la **eksploda** kvalito influas ĉiujn celojn en la notita areo, ruli
 
 ### Kritika Damaĝo
 
-Damaĝo kiu reduktas la TP de celo sub nul malpliigas la POR de celo je la kvanto restanta. Ili tiam devas fari FOR-ŝparon por eviti **kritikan damaĝon**. Aldone, iuj malamikoj havos specialajn kapablojn aŭ efikojn, kiuj estas ekigitaj kiam ilia celo malsukcesas kritikan damaĝon.
+Damaĝo kiu reduktas la TP de celo sub nul malpliigas la FOR de celo je la kvanto restanta. Ili tiam devas fari FOR-ŝparon por eviti **kritikan damaĝon**. Aldone, iuj malamikoj havos specialajn kapablojn aŭ efikojn, kiuj estas ekigitaj kiam ilia celo malsukcesas kritikan damaĝon.
 
 Ajna Ludantaj Karacteroj, kiu suferas kritikan damaĝon, ne povas fari ion krom rampi malforte, kaptante por la vivo. Se ili donas helpon kaj ripozon, ili stabiliĝos. Se lasitaj netraktitaj, ili mortas ene de la horo.
 
