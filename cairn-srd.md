@@ -779,7 +779,7 @@ Se atakas per du armiloj samtempe, ĵetu ambaŭ damaĝajn ĵetkubojn kaj konserv
 
 ### Eksplodo
 
-Atakoj kun la **eksploda** kvalito influas ĉiujn celojn en la notita areo, ruliĝante aparte por ĉiu tuŝita karaktero. Eksplodo rilatas al io ajn de eksplodoj ĝis enormaj fendaj atakoj ĝis la efiko de meteorito. Se ne certas kiom da celoj povas esti trafitaj, rulu la rilatan damaĝan ĵetkubon por rezulto.
+Atakoj kun la **eksploda** kvalito influas ĉiujn celojn en la notita areo, ruliĝante aparte por ĉiu tuŝita karaktero. **Eksplodo** rilatas al io ajn de eksplodoj ĝis enormaj fendaj atakoj ĝis la efiko de meteorito. Se vi ne certas kiom da celoj povas esti trafitaj, rulu la rilatan damaĝan ĵetkubon por rezulto.
 
 ### Critical Damage
 
