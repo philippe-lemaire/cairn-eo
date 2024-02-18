@@ -763,9 +763,9 @@ Vastigi por vidi ekzemplon
 _La Ligna Trolo muĝas, svingante sian klabon ĉe Bea, kiu havas 5 TP. La klubo faras 1d10 difekton kaj la Ludmastro ruliĝas 4-a Ili subtrahas 1 por respondeci pri la leda kiraso de Bea, forlasante Bea kun 2 TP restanta_.
 </details>
 
-### Multiple Attackers
+### Multoblaj Atakantoj
 
-If multiple attackers target the same foe, roll all damage dice and keep the single highest result.
+Se pluraj atakantoj celas la saman malamikon, rulu ĉiujn damaĝajn ĵetkubojn kaj konservu la plej altan rezulton.
 
 ### Attack Modifiers
 
