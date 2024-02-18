@@ -781,11 +781,11 @@ Se atakas per du armiloj samtempe, ĵetu ambaŭ damaĝajn ĵetkubojn kaj konserv
 
 Atakoj kun la **eksploda** kvalito influas ĉiujn celojn en la notita areo, ruliĝante aparte por ĉiu tuŝita karaktero. **Eksplodo** rilatas al io ajn de eksplodoj ĝis enormaj fendaj atakoj ĝis la efiko de meteorito. Se vi ne certas kiom da celoj povas esti trafitaj, rulu la rilatan damaĝan ĵetkubon por rezulto.
 
-### Critical Damage
+### Kritika Damaĝo
 
-Damage that reduces a target's TP below zero decreases a target's FOR by the amount remaining. They must then make a FOR save to avoid **critical damage**. Additionally, some enemies will have special abilities or effects that are triggered when their target fails a critical damage save.
+Damaĝo kiu reduktas la TP de celo sub nul malpliigas la POR de celo je la kvanto restanta. Ili tiam devas fari FOR-ŝparon por eviti **kritikan damaĝon**. Aldone, iuj malamikoj havos specialajn kapablojn aŭ efikojn, kiuj estas ekigitaj kiam ilia celo malsukcesas kritikan damaĝon.
 
-Any Ludantaj Karacteroj that suffers critical damage cannot do anything but crawl weakly, grasping for life. If given aid and rest, they will stabilize. If left untreated, they die within the hour.
+Ajna Ludantaj Karacteroj, kiu suferas kritikan damaĝon, ne povas fari ion krom rampi malforte, kaptante por la vivo. Se ili donas helpon kaj ripozon, ili stabiliĝos. Se lasitaj netraktitaj, ili mortas ene de la horo.
 
 ### Ability Score Loss
 
