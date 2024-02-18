@@ -787,25 +787,25 @@ Damaĝo kiu reduktas la TP de celo sub nul malpliigas la FOR de celo je la kvant
 
 Ajna Ludantaj Karacteroj, kiu suferas kritikan damaĝon, ne povas fari ion krom rampi malforte, kaptante por la vivo. Se ili donas helpon kaj ripozon, ili stabiliĝos. Se lasitaj netraktitaj, ili mortas ene de la horo.
 
-### Ability Score Loss
+### Kapablo-Poentaro-Perdo
 
-If a Ludantaj Karacteroj's FOR is reduced to 0, they die. If their LER is reduced to 0, they are paralyzed. If their VOL is reduced to 0, they are delirious.
-Complete LER and VOL loss renders the character unable to act until they are restored through extended rest or by extraordinary means.
+Se FOR de Ludantaj Karacteroj estas reduktita al 0, ili mortas. Se ilia LER estas reduktita al 0, ili estas paralizitaj. Se ilia VOL estas reduktita al 0, ili deliras.
+Kompleta LER kaj VOL-perdo igas la karakteron nekapabla agi ĝis ili estas restarigitaj per plilongigita ripozo aŭ per eksterordinaraj rimedoj.
 
-### Scars
+### Cikatroj
 
-When damage to a Ludantaj Karacteroj reduces their TP to exactly 0, they are sometimes changed irrevocably. See the [**Scars**](/cairn-srd#scars-1) table for more.
+Kiam damaĝo al Ludantaj Karacteroj reduktas ilian TP al ekzakte 0, ili foje estas ŝanĝitaj nerevokeble. Vidu la [**Scars**](/cairn-srd#scars-1) tablon por pli.
 
-### Unconsciousness & Death
+### Senkonscio & Morto
 
-When a character dies, the player is free to create a new character or take control of a hireling. They immediately join the party in order to reduce downtime.
+Kiam karaktero mortas, la ludanto estas libera krei novan karakteron aŭ preni kontrolon de dungito. Ili tuj aliĝas al la partio por redukti malfunkcion.
 
-### Detachments
+### Taĉmentoj
 
-Large groups of similar combatants fighting together are treated as a single **detachment**. When a detachment takes critical damage, it is routed or significantly weakened. When it reaches 0 FOR, it is destroyed.
+Grandaj grupoj de similaj batalantoj batalantaj kune estas traktataj kiel ununura **taĉmento**. Kiam taĉmento prenas kritikan difekton, ĝi estas venkita aŭ signife malfortigita. Kiam ĝi atingas 0 POR, ĝi estas detruita.
 
-Attacks against detachments by individuals are **impaired** (excluding blast damage).
-Attacks against individuals by detachments are **enhanced** and deal blast damage.
+Atakoj kontraŭ taĉmentoj de individuoj estas **difektitaj** (ekskludante eksploddifekton).
+Atakoj kontraŭ individuoj de taĉmentoj estas **plifortigitaj** kaj kaŭzas eksploddamaĝon.
 
 ### Retreat
 
