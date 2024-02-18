@@ -767,11 +767,11 @@ _La Ligna Trolo muĝas, svingante sian klabon ĉe Bea, kiu havas 5 TP. La klubo 
 
 Se pluraj atakantoj celas la saman malamikon, rulu ĉiujn damaĝajn ĵetkubojn kaj konservu la plej altan rezulton.
 
-### Attack Modifiers
+### Atako-Modifiloj
 
-If fighting from a position of weakness (such as through cover or with bound hands), the attack is **impaired** and the attacker must roll 1d4 damage regardless of the attacks damage die.
+Se oni batalas de pozicio de malforto (kiel ekzemple tra kovrilo aŭ kun ligitaj manoj), la atako estas **difektita** kaj la atakanto devas ruliĝi 1d4 damaĝon sendepende de la ataka damaĝoĵeto.
 
-If fighting from a position of advantage (such as against a helpless foe or through a daring maneuver), the attack is **enhanced**, allowing the attacker to roll 1d12 damage instead of their normal die.
+Se oni batalas el pozicio de avantaĝo (kiel kontraŭ senhelpa malamiko aŭ per aŭdaca manovro), la atako estas **plifortigita**, permesante al la atakanto ruliĝi 1d12 damaĝon anstataŭ sia normala ĵetkubo.
 
 ### Dual Weapons
 
