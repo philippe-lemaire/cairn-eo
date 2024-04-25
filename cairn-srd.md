@@ -800,35 +800,35 @@ Kiam damaĝo al Ludantaj Karacteroj reduktas ilian TP al ekzakte 0, ili foje est
 
 Kiam karaktero mortas, la ludanto estas libera krei novan karakteron aŭ preni kontrolon de dungito. Ili tuj aliĝas al la partio por redukti malfunkcion.
 
-### Taĉmentoj
+### Trupoj
 
 Grandaj grupoj de similaj batalantoj batalantaj kune estas traktataj kiel ununura **taĉmento**. Kiam taĉmento prenas kritikan difekton, ĝi estas venkita aŭ signife malfortigita. Kiam ĝi atingas 0 POR, ĝi estas detruita.
 
 Atakoj kontraŭ taĉmentoj de individuoj estas **difektitaj** (ekskludante eksploddifekton).
 Atakoj kontraŭ individuoj de taĉmentoj estas **plifortigitaj** kaj kaŭzas eksploddamaĝon.
 
-### Retreat
+### Retiriĝo
 
-Running away from a dire situation always requires a successful LER save, as well as a safe destination to run to.
+Forkuri de terura situacio ĉiam postulas sukcesan LER-ŝparon, kaj ankaŭ sekuran celon por kuri.
 
-### Scars
+### Cikatroj
 
-When an attack reduces a Ludantaj Karacteroj's TP to exactly 0, they are uniquely impacted. Look up the result on the table below based on the total damage taken:
+Kiam atako reduktas la TP de Ludantaj Karacteroj al ekzakte 0, ili estas unike trafitaj. Kontrolu la rezulton sur la suba tabelo surbaze de la totala damaĝo prenita:
 
-|      |                                                              |
+| | |
 |------ |---|
-| 1    | Lasting Scar: Roll 1d6 &#124; 1: Neck, 2: Hands, 3: Eye, 4: Chest, 5: Legs, 6: Ear. Roll 1d6. If the total is higher than your max TP, take the new result. |
-| 2    | Rattling Blow: You’re disoriented and shaken. Describe how you refocus. Roll 1d6. If the total is higher than your max TP, take the new result. |
-| 3    | Walloped: You’re sent flying and land flat on your face, winded. You are deprived until you rest for a few hours. Then, roll 1d6. Add that amount to your max TP. |
-| 4    | Broken Limb: Roll 1d6 &#124; 1-2: Leg, 3-4: Arm, 5: Rib, 6: Skull. Once mended, roll 2d6. If the total is higher than your max TP, take the new result. |
-| 5    | Diseased: You’re afflicted with a gross, uncomfortable infection. When you get over it, roll 2d6. If the total is higher than your max TP, take the new result. |
-| 6    | Reorienting Head Wound: Roll 1d6 &#124; 1-2: FOR, 3-4: LER, 5-6: VOL. Roll 3d6. If the total is higher than your current ability score, take the new result. |
-| 7    | Hamstrung: You can barely move until you get serious help and rest. After recovery, roll 3d6. If the total is higher than your max LER, take the new result. |
-| 8    | Deafened: You cannot hear anything until you find extraordinary aid. Regardless, make a VOL save. If you pass, increase your max VOL by 1d4. |
-| 9    | Re-brained: Some hidden part of your psyche is knocked loose. Roll 3d6. If the total is higher than your max VOL, take the new result. |
-| 10   | Sundered: An appendage is torn off, crippled or useless. The Ludmastro will tell you which. Then, make a VOL save. If you pass, increase your max VOL by 1d6. |
-| 11   | Mortal Wound: You are deprived and out of action. You die in one hour unless healed. Upon recovery, roll 2d6. Take the new result as your max TP. |
-| 12   | Doomed: Death seemed ever so close, but somehow you survived. If your next save against critical damage is a fail, you die horribly. If you pass, roll 3d6. If the total is higher than your max TP, take the new result. |
+| 1 | Daŭra Cikatro: Rulo 1d6 &#124; 1: Kolo, 2: Manoj, 3: Okulo, 4: Brusto, 5: Kruroj, 6: Orelo. Rulo 1d6. Se la totalo estas pli alta ol via maksimuma TP, prenu la novan rezulton. |
+| 2 | Tremanta Bato: Vi estas malorientita kaj skuita. Priskribu kiel vi refokusigas. Rulo 1d6. Se la totalo estas pli alta ol via maksimuma TP, prenu la novan rezulton. |
+| 3 | Frapita: Vi estas sendita fluganta kaj surteriĝas plata sur vian vizaĝon, vento. Vi estas senigita ĝis vi ripozas dum kelkaj horoj. Tiam rulu 1d6. Aldonu tiun kvanton al via maksimuma TP. |
+| 4 | Rompita membro: Rulu 1d6 &#124; 1-2: Gambo, 3-4: Brako, 5: Ripo, 6: Kranio. Fojo riparita, rulu 2d6. Se la totalo estas pli alta ol via maksimuma TP, prenu la novan rezulton. |
+| 5 | Malsana: Vi estas afliktita de kruda, malkomforta infekto. Kiam vi superas ĝin, rulu 2d6. Se la totalo estas pli alta ol via maksimuma TP, prenu la novan rezulton. |
+| 6 | Reorientiĝanta Kapvundo: Rulo 1d6 &#124; 1-2: POR, 3-4: LER, 5-6: VOL. Rulo 3d6. Se la totalo estas pli alta ol via nuna kapablo-poentaro, prenu la novan rezulton. |
+| 7 | Interrompita: Vi apenaŭ povas moviĝi ĝis vi ricevas seriozan helpon kaj ripozon. Post reakiro, rulu 3d6. Se la totalo estas pli alta ol via maksimuma LER, prenu la novan rezulton. |
+| 8 | Surdigita: Vi ne povas aŭdi ion ajn ĝis vi trovas eksterordinaran helpon. Ĉiaokaze, faru VOL-ŝparon. Se vi pasas, pliigu vian maksimuman VOL je 1d4. |
+| 9 | Re-cerbiĝita: Iu kaŝita parto de via psiko estas malfiksita. Rulu 3d6. Se la totalo estas pli alta ol via maksimuma VOL, prenu la novan rezulton. |
+| 10 | Disŝirita: Alpendaĵo estas forŝirita, kripla aŭ senutila. La Ludmastro diros al vi kiu. Poste, faru VOL-ŝparon. Se vi pasas, pliigu vian maksimuman VOL je 1d6. |
+| 11 | Morta Vundo: Vi estas senigita kaj ekstere de agado. Vi mortas en unu horo krom se vi resaniĝas. Post reakiro, rulu 2d6. Prenu la novan rezulton kiel vian maksimuman TP. |
+| 12 | Kondamnita: Morto ŝajnis iam tiel proksima, sed iel vi pluvivis. Se via sekva ŝparado kontraŭ kritika damaĝo estas malsukcesa, vi mortas terure. Se vi pasas, rulu 3d6. Se la totalo estas pli alta ol via maksimuma TP, prenu la novan rezulton. |
 
 [back to index](#index)
 <p></p>
